@@ -1,0 +1,255 @@
+,match_id,year,slam,match_num,player1,player2,status,winner,event_name,round,court_name,court_id,player1id,player2id,nation1,nation2,player1_rank,player2_rank
+0,2018-wimbledon-1101,2018,wimbledon,1101,Roger Federer,Dusan Lajovic,,,,,,,,,,,2.0,75.0
+1,2018-wimbledon-1102,2018,wimbledon,1102,Lukas Lacko,Benjamin Bonzi,,,,,,,,,,,92.0,187.0
+2,2018-wimbledon-1103,2018,wimbledon,1103,Ivo Karlovic,Mikhail Youzhny,,,,,,,,,,,80.0,84.0
+3,2018-wimbledon-1104,2018,wimbledon,1104,Jan Lennard Struff,Leonardo Mayer,,,,,,,,,,,53.0,52.0
+4,2018-wimbledon-1105,2018,wimbledon,1105,Adrian Mannarino,Christian Garin,,,,,,,,,,,28.0,311.0
+5,2018-wimbledon-1106,2018,wimbledon,1106,Ryan Harrison,Roberto Carballes Baena,,,,,,,,,,,47.0,106.0
+6,2018-wimbledon-1107,2018,wimbledon,1107,Guillermo Garcia Lopez,Gastao Elias,,,,,,,,,,,70.0,115.0
+7,2018-wimbledon-1108,2018,wimbledon,1108,Daniil Medvedev,Borna Coric,,,,,,,,,,,65.0,48.0
+8,2018-wimbledon-1109,2018,wimbledon,1109,Sam Querrey,Jordan Thompson,,,,,,,,,,,13.0,94.0
+9,2018-wimbledon-1110,2018,wimbledon,1110,Sergiy Stakhovsky,Joao Sousa,,,,,,,,,,,122.0,57.0
+10,2018-wimbledon-1111,2018,wimbledon,1111,Laslo Djere,Paolo Lorenzi,,,,,,,,,,,88.0,43.0
+11,2018-wimbledon-1112,2018,wimbledon,1112,Gael Monfils,Richard Gasquet,,,,,,,,,,,46.0,31.0
+12,2018-wimbledon-1113,2018,wimbledon,1113,Philipp Kohlschreiber,Evgeny Donskoy,,,,,,,,,,,29.0,72.0
+13,2018-wimbledon-1114,2018,wimbledon,1114,Gilles Muller,Michael Mmoh,,,,,,,,,,,25.0,175.0
+14,2018-wimbledon-1115,2018,wimbledon,1115,John Patrick Smith,Andreas Seppi,,,,,,,,,,,219.0,86.0
+15,2018-wimbledon-1116,2018,wimbledon,1116,Norbert Gombos,Kevin Anderson,,,,,,,,,,,132.0,14.0
+16,2018-wimbledon-1117,2018,wimbledon,1117,Marin Cilic,Yoshihito Nishioka,,,,,,,,,,,6.0,166.0
+17,2018-wimbledon-1118,2018,wimbledon,1118,Jason Kubler,Guido Pella,,,,,,,,,,,341.0,64.0
+18,2018-wimbledon-1119,2018,wimbledon,1119,Ricardas Berankis,Mackenzie McDonald,,,,,,,,,,,,
+19,2018-wimbledon-1120,2018,wimbledon,1120,Nicolas Jarry,Filip Krajinovic,,,,,,,,,,,111.0,34.0
+20,2018-wimbledon-1121,2018,wimbledon,1121,Lucas Pouille,Denis Kudla,,,,,,,,,,,18.0,174.0
+21,2018-wimbledon-1122,2018,wimbledon,1122,Peter Polansky,Dennis Novak,,,,,,,,,,,137.0,225.0
+22,2018-wimbledon-1123,2018,wimbledon,1123,John Millman,Stefano Travaglia,,,,,,,,,,,128.0,134.0
+23,2018-wimbledon-1124,2018,wimbledon,1124,Liam Broady,Milos Raonic,,,,,,,,,,,170.0,24.0
+24,2018-wimbledon-1125,2018,wimbledon,1125,John Isner,Yannick Maden,,,,,,,,,,,17.0,147.0
+25,2018-wimbledon-1126,2018,wimbledon,1126,Steve Johnson,Ruben Bemelmans,,,,,,,,,,,44.0,118.0
+26,2018-wimbledon-1127,2018,wimbledon,1127,Aljaz Bedene,Cameron Norrie,,,,,,,,,,,49.0,114.0
+27,2018-wimbledon-1128,2018,wimbledon,1128,Radu Albot,Pablo Carreno Busta,,,,,,,,,,,87.0,10.0
+28,2018-wimbledon-1129,2018,wimbledon,1129,Stefanos Tsitsipas,Gregoire Barrere,,,,,,,,,,,91.0,624.0
+29,2018-wimbledon-1130,2018,wimbledon,1130,Malek Jaziri,Jared Donaldson,,,,,,,,,,,98.0,54.0
+30,2018-wimbledon-1131,2018,wimbledon,1131,Yuki Bhambri,Thomas Fabbiano,,,,,,,,,,,116.0,73.0
+31,2018-wimbledon-1132,2018,wimbledon,1132,Stan Wawrinka,Grigor Dimitrov,,,,,,,,,,,,
+32,2018-wimbledon-1133,2018,wimbledon,1133,Dominic Thiem,Marcos Baghdatis,,,,,,,,,,,5.0,102.0
+33,2018-wimbledon-1134,2018,wimbledon,1134,David Ferrer,Karen Khachanov,,,,,,,,,,,37.0,45.0
+34,2018-wimbledon-1135,2018,wimbledon,1135,Julien Benneteau,Marton Fucsovics,,,,,,,,,,,56.0,85.0
+35,2018-wimbledon-1136,2018,wimbledon,1136,Frances Tiafoe,Fernando Verdasco,,,,,,,,,,,,
+36,2018-wimbledon-1137,2018,wimbledon,1137,Kyle Edmund,Alex Bolt,,,,,,,,,,,50.0,189.0
+37,2018-wimbledon-1138,2018,wimbledon,1138,Yuichi Sugita,Bradley Klahn,,,,,,,,,,,40.0,214.0
+38,2018-wimbledon-1139,2018,wimbledon,1139,Guido Andreozzi,Horacio Zeballos,,,,,,,,,,,193.0,66.0
+39,2018-wimbledon-1140,2018,wimbledon,1140,Tennys Sandgren,Novak Djokovic,,,,,,,,,,,96.0,12.0
+40,2018-wimbledon-1141,2018,wimbledon,1141,Nick Kyrgios,Denis Istomin,,,,,,,,,,,21.0,63.0
+41,2018-wimbledon-1142,2018,wimbledon,1142,Marius Copil,Robin Haase,,,,,,,,,,,93.0,42.0
+42,2018-wimbledon-1143,2018,wimbledon,1143,Bernard Tomic,Hubert Hurkacz,,,,,,,,,,,140.0,238.0
+43,2018-wimbledon-1144,2018,wimbledon,1144,Christian Harrison,Kei Nishikori,,,,,,,,,,,247.0,22.0
+44,2018-wimbledon-1145,2018,wimbledon,1145,Damir Dzumhur,Maximilian Marterer,,,,,,,,,,,30.0,90.0
+45,2018-wimbledon-1146,2018,wimbledon,1146,Ernests Gulbis,Jay Clarke,,,,,,,,,,,199.0,255.0
+46,2018-wimbledon-1147,2018,wimbledon,1147,Lorenzo Sonego,Taylor Fritz,,,,,,,,,,,,
+47,2018-wimbledon-1148,2018,wimbledon,1148,James Duckworth,Alexander Zverev,,,,,,,,,,,990.0,4.0
+48,2018-wimbledon-1149,2018,wimbledon,1149,Juan Martin Del Potro,Peter Gojowczyk,,,,,,,,,,,11.0,60.0
+49,2018-wimbledon-1150,2018,wimbledon,1150,Feliciano Lopez,Federico Delbonis,,,,,,,,,,,36.0,68.0
+50,2018-wimbledon-1151,2018,wimbledon,1151,Benoit Paire,Jason Jung,,,,,,,,,,,41.0,239.0
+51,2018-wimbledon-1152,2018,wimbledon,1152,Jeremy Chardy,Denis Shapovalov,,,,,,,,,,,78.0,51.0
+52,2018-wimbledon-1153,2018,wimbledon,1153,Jack Sock,Matteo Berrettini,,,,,,,,,,,8.0,135.0
+53,2018-wimbledon-1154,2018,wimbledon,1154,Gilles Simon,Nikoloz Basilashvili,,,,,,,,,,,89.0,59.0
+54,2018-wimbledon-1155,2018,wimbledon,1155,Albert Ramos Vinolas,Stephane Robert,,,,,,,,,,,,
+55,2018-wimbledon-1156,2018,wimbledon,1156,Matthew Ebden,David Goffin,,,,,,,,,,,76.0,7.0
+56,2018-wimbledon-1157,2018,wimbledon,1157,Diego Schwartzman,Mirza Basic,,,,,,,,,,,,
+57,2018-wimbledon-1158,2018,wimbledon,1158,Jiri Vesely,Florian Mayer,,,,,,,,,,,62.0,69.0
+58,2018-wimbledon-1159,2018,wimbledon,1159,Pablo Cuevas,Simone Bolelli,,,,,,,,,,,32.0,171.0
+59,2018-wimbledon-1160,2018,wimbledon,1160,Taro Daniel,Fabio Fognini,,,,,,,,,,,99.0,27.0
+60,2018-wimbledon-1161,2018,wimbledon,1161,Marco Cecchinato,Alex De Minaur,,,,,,,,,,,109.0,208.0
+61,2018-wimbledon-1162,2018,wimbledon,1162,Pierre Hugues Herbert,Mischa Zverev,,,,,,,,,,,81.0,33.0
+62,2018-wimbledon-1163,2018,wimbledon,1163,Vasek Pospisil,Mikhail Kukushkin,,,,,,,,,,,108.0,74.0
+63,2018-wimbledon-1164,2018,wimbledon,1164,Dudi Sela,Rafael Nadal,,,,,,,,,,,67.0,1.0
+64,2018-wimbledon-1201,2018,wimbledon,1201,Roger Federer,Lukas Lacko,,,,,,,,,,,2.0,92.0
+65,2018-wimbledon-1202,2018,wimbledon,1202,Ivo Karlovic,Jan Lennard Struff,,,,,,,,,,,80.0,53.0
+66,2018-wimbledon-1203,2018,wimbledon,1203,Adrian Mannarino,Ryan Harrison,,,,,,,,,,,28.0,47.0
+67,2018-wimbledon-1204,2018,wimbledon,1204,Guillermo Garcia Lopez,Daniil Medvedev,,,,,,,,,,,70.0,65.0
+68,2018-wimbledon-1205,2018,wimbledon,1205,Sam Querrey,Sergiy Stakhovsky,,,,,,,,,,,13.0,122.0
+69,2018-wimbledon-1206,2018,wimbledon,1206,Paolo Lorenzi,Gael Monfils,,,,,,,,,,,43.0,46.0
+70,2018-wimbledon-1207,2018,wimbledon,1207,Philipp Kohlschreiber,Gilles Muller,,,,,,,,,,,29.0,25.0
+71,2018-wimbledon-1208,2018,wimbledon,1208,Andreas Seppi,Kevin Anderson,,,,,,,,,,,86.0,14.0
+72,2018-wimbledon-1209,2018,wimbledon,1209,Marin Cilic,Guido Pella,,,,,,,,,,,6.0,64.0
+73,2018-wimbledon-1210,2018,wimbledon,1210,Mackenzie McDonald,Nicolas Jarry,,,,,,,,,,,,
+74,2018-wimbledon-1211,2018,wimbledon,1211,Lucas Pouille,Dennis Novak,,,,,,,,,,,18.0,225.0
+75,2018-wimbledon-1212,2018,wimbledon,1212,John Millman,Milos Raonic,,,,,,,,,,,128.0,24.0
+76,2018-wimbledon-1213,2018,wimbledon,1213,John Isner,Ruben Bemelmans,,,,,,,,,,,17.0,118.0
+77,2018-wimbledon-1214,2018,wimbledon,1214,Aljaz Bedene,Radu Albot,,,,,,,,,,,49.0,87.0
+78,2018-wimbledon-1215,2018,wimbledon,1215,Stefanos Tsitsipas,Jared Donaldson,,,,,,,,,,,91.0,54.0
+79,2018-wimbledon-1216,2018,wimbledon,1216,Thomas Fabbiano,Stan Wawrinka,,,,,,,,,,,,
+80,2018-wimbledon-1217,2018,wimbledon,1217,Marcos Baghdatis,Karen Khachanov,,,,,,,,,,,102.0,45.0
+81,2018-wimbledon-1218,2018,wimbledon,1218,Julien Benneteau,Frances Tiafoe,,,,,,,,,,,,
+82,2018-wimbledon-1219,2018,wimbledon,1219,Kyle Edmund,Bradley Klahn,,,,,,,,,,,50.0,214.0
+83,2018-wimbledon-1220,2018,wimbledon,1220,Horacio Zeballos,Novak Djokovic,,,,,,,,,,,66.0,12.0
+84,2018-wimbledon-1221,2018,wimbledon,1221,Nick Kyrgios,Robin Haase,,,,,,,,,,,21.0,42.0
+85,2018-wimbledon-1222,2018,wimbledon,1222,Bernard Tomic,Kei Nishikori,,,,,,,,,,,140.0,22.0
+86,2018-wimbledon-1223,2018,wimbledon,1223,Damir Dzumhur,Ernests Gulbis,,,,,,,,,,,30.0,199.0
+87,2018-wimbledon-1224,2018,wimbledon,1224,Taylor Fritz,Alexander Zverev,,,,,,,,,,,,
+88,2018-wimbledon-1225,2018,wimbledon,1225,Juan Martin Del Potro,Feliciano Lopez,,,,,,,,,,,11.0,36.0
+89,2018-wimbledon-1226,2018,wimbledon,1226,Benoit Paire,Denis Shapovalov,,,,,,,,,,,41.0,51.0
+90,2018-wimbledon-1227,2018,wimbledon,1227,Matteo Berrettini,Gilles Simon,,,,,,,,,,,135.0,89.0
+91,2018-wimbledon-1228,2018,wimbledon,1228,Stephane Robert,Matthew Ebden,,,,,,,,,,,218.0,76.0
+92,2018-wimbledon-1229,2018,wimbledon,1229,Diego Schwartzman,Jiri Vesely,,,,,,,,,,,,
+93,2018-wimbledon-1230,2018,wimbledon,1230,Simone Bolelli,Fabio Fognini,,,,,,,,,,,171.0,27.0
+94,2018-wimbledon-1231,2018,wimbledon,1231,Alex De Minaur,Pierre Hugues Herbert,,,,,,,,,,,208.0,81.0
+95,2018-wimbledon-1232,2018,wimbledon,1232,Mikhail Kukushkin,Rafael Nadal,,,,,,,,,,,74.0,1.0
+96,2018-wimbledon-1301,2018,wimbledon,1301,Roger Federer,Jan Lennard Struff,,,,,,,,,,,2.0,53.0
+97,2018-wimbledon-1302,2018,wimbledon,1302,Adrian Mannarino,Daniil Medvedev,,,,,,,,,,,28.0,65.0
+98,2018-wimbledon-1303,2018,wimbledon,1303,Sam Querrey,Gael Monfils,,,,,,,,,,,13.0,46.0
+99,2018-wimbledon-1304,2018,wimbledon,1304,Philipp Kohlschreiber,Kevin Anderson,,,,,,,,,,,29.0,14.0
+100,2018-wimbledon-1305,2018,wimbledon,1305,Guido Pella,Mackenzie McDonald,,,,,,,,,,,,
+101,2018-wimbledon-1306,2018,wimbledon,1306,Dennis Novak,Milos Raonic,,,,,,,,,,,225.0,24.0
+102,2018-wimbledon-1307,2018,wimbledon,1307,John Isner,Radu Albot,,,,,,,,,,,17.0,87.0
+103,2018-wimbledon-1308,2018,wimbledon,1308,Stefanos Tsitsipas,Thomas Fabbiano,,,,,,,,,,,91.0,73.0
+104,2018-wimbledon-1309,2018,wimbledon,1309,Karen Khachanov,Frances Tiafoe,,,,,,,,,,,,
+105,2018-wimbledon-1310,2018,wimbledon,1310,Kyle Edmund,Novak Djokovic,,,,,,,,,,,50.0,12.0
+106,2018-wimbledon-1311,2018,wimbledon,1311,Nick Kyrgios,Kei Nishikori,,,,,,,,,,,21.0,22.0
+107,2018-wimbledon-1312,2018,wimbledon,1312,Ernests Gulbis,Alexander Zverev,,,,,,,,,,,199.0,4.0
+108,2018-wimbledon-1313,2018,wimbledon,1313,Juan Martin Del Potro,Benoit Paire,,,,,,,,,,,11.0,41.0
+109,2018-wimbledon-1314,2018,wimbledon,1314,Gilles Simon,Matthew Ebden,,,,,,,,,,,89.0,76.0
+110,2018-wimbledon-1315,2018,wimbledon,1315,Jiri Vesely,Fabio Fognini,,,,,,,,,,,62.0,27.0
+111,2018-wimbledon-1316,2018,wimbledon,1316,Alex De Minaur,Rafael Nadal,,,,,,,,,,,208.0,1.0
+112,2018-wimbledon-1401,2018,wimbledon,1401,Roger Federer,Adrian Mannarino,,,,,,,,,,,2.0,28.0
+113,2018-wimbledon-1402,2018,wimbledon,1402,Gael Monfils,Kevin Anderson,,,,,,,,,,,46.0,14.0
+114,2018-wimbledon-1403,2018,wimbledon,1403,Mackenzie McDonald,Milos Raonic,,,,,,,,,,,,
+115,2018-wimbledon-1404,2018,wimbledon,1404,John Isner,Stefanos Tsitsipas,,,,,,,,,,,17.0,91.0
+116,2018-wimbledon-1405,2018,wimbledon,1405,Karen Khachanov,Novak Djokovic,,,,,,,,,,,45.0,12.0
+117,2018-wimbledon-1406,2018,wimbledon,1406,Kei Nishikori,Ernests Gulbis,,,,,,,,,,,22.0,199.0
+118,2018-wimbledon-1407,2018,wimbledon,1407,Juan Martin Del Potro,Gilles Simon,,,,,,,,,,,11.0,89.0
+119,2018-wimbledon-1408,2018,wimbledon,1408,Jiri Vesely,Rafael Nadal,,,,,,,,,,,62.0,1.0
+120,2018-wimbledon-1501,2018,wimbledon,1501,Roger Federer,Kevin Anderson,,,,,,,,,,,2.0,14.0
+121,2018-wimbledon-1502,2018,wimbledon,1502,Milos Raonic,John Isner,,,,,,,,,,,24.0,17.0
+122,2018-wimbledon-1503,2018,wimbledon,1503,Novak Djokovic,Kei Nishikori,,,,,,,,,,,12.0,22.0
+123,2018-wimbledon-1504,2018,wimbledon,1504,Juan Martin Del Potro,Rafael Nadal,,,,,,,,,,,11.0,1.0
+124,2018-wimbledon-1601,2018,wimbledon,1601,Kevin Anderson,John Isner,,,,,,,,,,,14.0,17.0
+125,2018-wimbledon-1602,2018,wimbledon,1602,Novak Djokovic,Rafael Nadal,,,,,,,,,,,12.0,1.0
+126,2018-wimbledon-1701,2018,wimbledon,1701,Kevin Anderson,Novak Djokovic,,,,,,,,,,,14.0,12.0
+127,2018-wimbledon-2101,2018,wimbledon,2101,Simona Halep,Kurumi Nara,,,,,,,,,,,1.0,102.0
+128,2018-wimbledon-2102,2018,wimbledon,2102,Saisai Zheng,Qiang Wang,,,,,,,,,,,93.0,45.0
+129,2018-wimbledon-2103,2018,wimbledon,2103,Ana Bogdan,Lara Arruabarrena,,,,,,,,,,,111.0,84.0
+130,2018-wimbledon-2104,2018,wimbledon,2104,Su Wei Hsieh,Anastasia Pavlyuchenkova,,,,,,,,,,,82.0,15.0
+131,2018-wimbledon-2105,2018,wimbledon,2105,Johanna Konta,Natalia Vikhlyantseva,,,,,,,,,,,9.0,56.0
+132,2018-wimbledon-2106,2018,wimbledon,2106,Alize Cornet,Dominika Cibulkova,,,,,,,,,,,38.0,26.0
+133,2018-wimbledon-2107,2018,wimbledon,2107,Marketa Vondrousova,Sachia Vickery,,,,,,,,,,,67.0,120.0
+134,2018-wimbledon-2108,2018,wimbledon,2108,Danielle Collins,Elise Mertens,,,,,,,,,,,,
+135,2018-wimbledon-2109,2018,wimbledon,2109,Jelena Ostapenko,Katy Dunne,,,,,,,,,,,7.0,276.0
+136,2018-wimbledon-2110,2018,wimbledon,2110,Heather Watson,Kirsten Flipkens,,,,,,,,,,,73.0,74.0
+137,2018-wimbledon-2111,2018,wimbledon,2111,Sofia Kenin,Maria Sakkari,,,,,,,,,,,110.0,53.0
+138,2018-wimbledon-2112,2018,wimbledon,2112,Vitalia Diatchenko,Maria Sharapova,,,,,,,,,,,176.0,61.0
+139,2018-wimbledon-2113,2018,wimbledon,2113,Daria Gavrilova,Caroline Dolehide,,,,,,,,,,,25.0,155.0
+140,2018-wimbledon-2114,2018,wimbledon,2114,Shuai Peng,Samantha Stosur,,,,,,,,,,,27.0,41.0
+141,2018-wimbledon-2115,2018,wimbledon,2115,Pauline Parmentier,Taylor Townsend,,,,,,,,,,,79.0,94.0
+142,2018-wimbledon-2116,2018,wimbledon,2116,Aliaksandra Sasnovich,Petra Kvitova,,,,,,,,,,,87.0,29.0
+143,2018-wimbledon-2117,2018,wimbledon,2117,Garbine Muguruza,Naomi Broady,,,,,,,,,,,2.0,117.0
+144,2018-wimbledon-2118,2018,wimbledon,2118,Alison Van Uytvanck,Polona Hercog,,,,,,,,,,,76.0,101.0
+145,2018-wimbledon-2119,2018,wimbledon,2119,Jennifer Brady,Kateryna Kozlova,,,,,,,,,,,65.0,86.0
+146,2018-wimbledon-2120,2018,wimbledon,2120,Denisa Allertova,Anett Kontaveit,,,,,,,,,,,130.0,34.0
+147,2018-wimbledon-2121,2018,wimbledon,2121,Ashleigh Barty,Stefanie Voegele,,,,,,,,,,,17.0,169.0
+148,2018-wimbledon-2122,2018,wimbledon,2122,Gabriella Taylor,Eugenie Bouchard,,,,,,,,,,,334.0,81.0
+149,2018-wimbledon-2123,2018,wimbledon,2123,Magda Linette,Yulia Putintseva,,,,,,,,,,,72.0,52.0
+150,2018-wimbledon-2124,2018,wimbledon,2124,Jana Fett,Daria Kasatkina,,,,,,,,,,,,
+151,2018-wimbledon-2125,2018,wimbledon,2125,Angelique Kerber,Vera Zvonareva,,,,,,,,,,,21.0,200.0
+152,2018-wimbledon-2126,2018,wimbledon,2126,Ana Konjuh,Claire Liu,,,,,,,,,,,44.0,266.0
+153,2018-wimbledon-2127,2018,wimbledon,2127,Katie Boulter,Veronica Cepede Royg,,,,,,,,,,,198.0,75.0
+154,2018-wimbledon-2128,2018,wimbledon,2128,Monica Niculescu,Naomi Osaka,,,,,,,,,,,77.0,68.0
+155,2018-wimbledon-2129,2018,wimbledon,2129,Carla Suarez Navarro,Carina Witthoeft,,,,,,,,,,,40.0,51.0
+156,2018-wimbledon-2130,2018,wimbledon,2130,Sara Sorribes Tormo,Kaia Kanepi,,,,,,,,,,,104.0,100.0
+157,2018-wimbledon-2131,2018,wimbledon,2131,Alison Riske,Mariana Duque Marino,,,,,,,,,,,70.0,107.0
+158,2018-wimbledon-2132,2018,wimbledon,2132,Belinda Bencic,Caroline Garcia,,,,,,,,,,,98.0,8.0
+159,2018-wimbledon-2133,2018,wimbledon,2133,Karolina Pliskova,Harriet Dart,,,,,,,,,,,4.0,314.0
+160,2018-wimbledon-2134,2018,wimbledon,2134,Ekaterina Alexandrova,Victoria Azarenka,,,,,,,,,,,95.0,205.0
+161,2018-wimbledon-2135,2018,wimbledon,2135,Irina Camelia Begu,Katie Swan,,,,,,,,,,,43.0,296.0
+162,2018-wimbledon-2136,2018,wimbledon,2136,Aryna Sabalenka,Mihaela Buzarnescu,,,,,,,,,,,96.0,60.0
+163,2018-wimbledon-2137,2018,wimbledon,2137,Kiki Bertens,Barbora Stefkova,,,,,,,,,,,31.0,461.0
+164,2018-wimbledon-2138,2018,wimbledon,2138,Yafan Wang,Anna Blinkova,,,,,,,,,,,170.0,138.0
+165,2018-wimbledon-2139,2018,wimbledon,2139,Alexandra Dulgheru,Kristyna Pliskova,,,,,,,,,,,188.0,62.0
+166,2018-wimbledon-2140,2018,wimbledon,2140,Johanna Larsson,Venus Williams,,,,,,,,,,,80.0,5.0
+167,2018-wimbledon-2141,2018,wimbledon,2141,Julia Goerges,Monica Puig,,,,,,,,,,,14.0,58.0
+168,2018-wimbledon-2142,2018,wimbledon,2142,Vera Lapko,Christina McHale,,,,,,,,,,,,
+169,2018-wimbledon-2143,2018,wimbledon,2143,Lesia Tsurenko,Timea Babos,,,,,,,,,,,42.0,57.0
+170,2018-wimbledon-2144,2018,wimbledon,2144,Svetlana Kuznetsova,Barbora Strycova,,,,,,,,,,,,
+171,2018-wimbledon-2145,2018,wimbledon,2145,Shuai Zhang,Andrea Petkovic,,,,,,,,,,,36.0,99.0
+172,2018-wimbledon-2146,2018,wimbledon,2146,Mona Barthel,Yanina Wickmayer,,,,,,,,,,,48.0,115.0
+173,2018-wimbledon-2147,2018,wimbledon,2147,Viktoria Kuzmova,Rebecca Peterson,,,,,,,,,,,137.0,174.0
+174,2018-wimbledon-2148,2018,wimbledon,2148,Donna Vekic,Sloane Stephens,,,,,,,,,,,55.0,13.0
+175,2018-wimbledon-2149,2018,wimbledon,2149,Elina Svitolina,Tatjana Maria,,,,,,,,,,,6.0,47.0
+176,2018-wimbledon-2150,2018,wimbledon,2150,Anna Karolina Schmiedlova,Kristina Mladenovic,,,,,,,,,,,135.0,11.0
+177,2018-wimbledon-2151,2018,wimbledon,2151,Tereza Smitkova,Viktoriya Tomova,,,,,,,,,,,236.0,145.0
+178,2018-wimbledon-2152,2018,wimbledon,2152,Arantxa Rus,Serena Williams,,,,,,,,,,,134.0,22.0
+179,2018-wimbledon-2153,2018,wimbledon,2153,Magdalena Rybarikova,Sorana Cirstea,,,,,,,,,,,20.0,37.0
+180,2018-wimbledon-2154,2018,wimbledon,2154,Evgeniya Rodina,Antonia Lottner,,,,,,,,,,,105.0,154.0
+181,2018-wimbledon-2155,2018,wimbledon,2155,Luksika Kumkhum,Bernarda Pera,,,,,,,,,,,125.0,127.0
+182,2018-wimbledon-2156,2018,wimbledon,2156,Ajla Tomljanovic,Madison Keys,,,,,,,,,,,136.0,19.0
+183,2018-wimbledon-2157,2018,wimbledon,2157,Coco Vandeweghe,Katerina Siniakova,,,,,,,,,,,10.0,49.0
+184,2018-wimbledon-2158,2018,wimbledon,2158,Viktorija Golubic,Ons Jabeur,,,,,,,,,,,114.0,88.0
+185,2018-wimbledon-2159,2018,wimbledon,2159,Aleksandra Krunic,Madison Brengle,,,,,,,,,,,54.0,83.0
+186,2018-wimbledon-2160,2018,wimbledon,2160,Camila Giorgi,Anastasija Sevastova,,,,,,,,,,,78.0,16.0
+187,2018-wimbledon-2161,2018,wimbledon,2161,Agnieszka Radwanska,Elena Gabriela Ruse,,,,,,,,,,,28.0,243.0
+188,2018-wimbledon-2162,2018,wimbledon,2162,Kateryna Bondarenko,Lucie Safarova,,,,,,,,,,,92.0,30.0
+189,2018-wimbledon-2163,2018,wimbledon,2163,Petra Martic,Ekaterina Makarova,,,,,,,,,,,89.0,33.0
+190,2018-wimbledon-2164,2018,wimbledon,2164,Varvara Lepchenko,Caroline Wozniacki,,,,,,,,,,,63.0,3.0
+191,2018-wimbledon-2201,2018,wimbledon,2201,Simona Halep,Saisai Zheng,,,,,,,,,,,1.0,93.0
+192,2018-wimbledon-2202,2018,wimbledon,2202,Lara Arruabarrena,Su Wei Hsieh,,,,,,,,,,,84.0,82.0
+193,2018-wimbledon-2203,2018,wimbledon,2203,Johanna Konta,Dominika Cibulkova,,,,,,,,,,,9.0,26.0
+194,2018-wimbledon-2204,2018,wimbledon,2204,Sachia Vickery,Elise Mertens,,,,,,,,,,,120.0,35.0
+195,2018-wimbledon-2205,2018,wimbledon,2205,Jelena Ostapenko,Kirsten Flipkens,,,,,,,,,,,7.0,74.0
+196,2018-wimbledon-2206,2018,wimbledon,2206,Sofia Kenin,Vitalia Diatchenko,,,,,,,,,,,110.0,176.0
+197,2018-wimbledon-2207,2018,wimbledon,2207,Daria Gavrilova,Samantha Stosur,,,,,,,,,,,25.0,41.0
+198,2018-wimbledon-2208,2018,wimbledon,2208,Taylor Townsend,Aliaksandra Sasnovich,,,,,,,,,,,94.0,87.0
+199,2018-wimbledon-2209,2018,wimbledon,2209,Garbine Muguruza,Alison Van Uytvanck,,,,,,,,,,,2.0,76.0
+200,2018-wimbledon-2210,2018,wimbledon,2210,Jennifer Brady,Anett Kontaveit,,,,,,,,,,,65.0,34.0
+201,2018-wimbledon-2211,2018,wimbledon,2211,Ashleigh Barty,Eugenie Bouchard,,,,,,,,,,,17.0,81.0
+202,2018-wimbledon-2212,2018,wimbledon,2212,Yulia Putintseva,Daria Kasatkina,,,,,,,,,,,,
+203,2018-wimbledon-2213,2018,wimbledon,2213,Angelique Kerber,Claire Liu,,,,,,,,,,,21.0,266.0
+204,2018-wimbledon-2214,2018,wimbledon,2214,Katie Boulter,Naomi Osaka,,,,,,,,,,,198.0,68.0
+205,2018-wimbledon-2215,2018,wimbledon,2215,Carla Suarez Navarro,Sara Sorribes Tormo,,,,,,,,,,,40.0,104.0
+206,2018-wimbledon-2216,2018,wimbledon,2216,Alison Riske,Belinda Bencic,,,,,,,,,,,70.0,98.0
+207,2018-wimbledon-2217,2018,wimbledon,2217,Karolina Pliskova,Victoria Azarenka,,,,,,,,,,,4.0,205.0
+208,2018-wimbledon-2218,2018,wimbledon,2218,Katie Swan,Mihaela Buzarnescu,,,,,,,,,,,296.0,60.0
+209,2018-wimbledon-2219,2018,wimbledon,2219,Kiki Bertens,Anna Blinkova,,,,,,,,,,,31.0,138.0
+210,2018-wimbledon-2220,2018,wimbledon,2220,Alexandra Dulgheru,Venus Williams,,,,,,,,,,,188.0,5.0
+211,2018-wimbledon-2221,2018,wimbledon,2221,Julia Goerges,Vera Lapko,,,,,,,,,,,14.0,133.0
+212,2018-wimbledon-2222,2018,wimbledon,2222,Lesia Tsurenko,Barbora Strycova,,,,,,,,,,,,
+213,2018-wimbledon-2223,2018,wimbledon,2223,Andrea Petkovic,Yanina Wickmayer,,,,,,,,,,,99.0,115.0
+214,2018-wimbledon-2224,2018,wimbledon,2224,Rebecca Peterson,Donna Vekic,,,,,,,,,,,174.0,55.0
+215,2018-wimbledon-2225,2018,wimbledon,2225,Tatjana Maria,Kristina Mladenovic,,,,,,,,,,,47.0,11.0
+216,2018-wimbledon-2226,2018,wimbledon,2226,Viktoriya Tomova,Serena Williams,,,,,,,,,,,145.0,22.0
+217,2018-wimbledon-2227,2018,wimbledon,2227,Sorana Cirstea,Evgeniya Rodina,,,,,,,,,,,37.0,105.0
+218,2018-wimbledon-2228,2018,wimbledon,2228,Luksika Kumkhum,Madison Keys,,,,,,,,,,,125.0,19.0
+219,2018-wimbledon-2229,2018,wimbledon,2229,Katerina Siniakova,Ons Jabeur,,,,,,,,,,,49.0,88.0
+220,2018-wimbledon-2230,2018,wimbledon,2230,Madison Brengle,Camila Giorgi,,,,,,,,,,,83.0,78.0
+221,2018-wimbledon-2231,2018,wimbledon,2231,Agnieszka Radwanska,Lucie Safarova,,,,,,,,,,,28.0,30.0
+222,2018-wimbledon-2232,2018,wimbledon,2232,Ekaterina Makarova,Caroline Wozniacki,,,,,,,,,,,33.0,3.0
+223,2018-wimbledon-2301,2018,wimbledon,2301,Simona Halep,Su Wei Hsieh,,,,,,,,,,,1.0,82.0
+224,2018-wimbledon-2302,2018,wimbledon,2302,Dominika Cibulkova,Elise Mertens,,,,,,,,,,,26.0,35.0
+225,2018-wimbledon-2303,2018,wimbledon,2303,Jelena Ostapenko,Vitalia Diatchenko,,,,,,,,,,,7.0,176.0
+226,2018-wimbledon-2304,2018,wimbledon,2304,Daria Gavrilova,Aliaksandra Sasnovich,,,,,,,,,,,25.0,87.0
+227,2018-wimbledon-2305,2018,wimbledon,2305,Alison Van Uytvanck,Anett Kontaveit,,,,,,,,,,,76.0,34.0
+228,2018-wimbledon-2306,2018,wimbledon,2306,Ashleigh Barty,Daria Kasatkina,,,,,,,,,,,,
+229,2018-wimbledon-2307,2018,wimbledon,2307,Angelique Kerber,Naomi Osaka,,,,,,,,,,,21.0,68.0
+230,2018-wimbledon-2308,2018,wimbledon,2308,Carla Suarez Navarro,Belinda Bencic,,,,,,,,,,,40.0,98.0
+231,2018-wimbledon-2309,2018,wimbledon,2309,Karolina Pliskova,Mihaela Buzarnescu,,,,,,,,,,,4.0,60.0
+232,2018-wimbledon-2310,2018,wimbledon,2310,Kiki Bertens,Venus Williams,,,,,,,,,,,31.0,5.0
+233,2018-wimbledon-2311,2018,wimbledon,2311,Julia Goerges,Barbora Strycova,,,,,,,,,,,,
+234,2018-wimbledon-2312,2018,wimbledon,2312,Yanina Wickmayer,Donna Vekic,,,,,,,,,,,115.0,55.0
+235,2018-wimbledon-2313,2018,wimbledon,2313,Kristina Mladenovic,Serena Williams,,,,,,,,,,,11.0,22.0
+236,2018-wimbledon-2314,2018,wimbledon,2314,Evgeniya Rodina,Madison Keys,,,,,,,,,,,105.0,19.0
+237,2018-wimbledon-2315,2018,wimbledon,2315,Katerina Siniakova,Camila Giorgi,,,,,,,,,,,49.0,78.0
+238,2018-wimbledon-2316,2018,wimbledon,2316,Lucie Safarova,Ekaterina Makarova,,,,,,,,,,,30.0,33.0
+239,2018-wimbledon-2401,2018,wimbledon,2401,Su Wei Hsieh,Dominika Cibulkova,,,,,,,,,,,82.0,26.0
+240,2018-wimbledon-2402,2018,wimbledon,2402,Jelena Ostapenko,Aliaksandra Sasnovich,,,,,,,,,,,7.0,87.0
+241,2018-wimbledon-2403,2018,wimbledon,2403,Alison Van Uytvanck,Daria Kasatkina,,,,,,,,,,,,
+242,2018-wimbledon-2404,2018,wimbledon,2404,Angelique Kerber,Belinda Bencic,,,,,,,,,,,21.0,98.0
+243,2018-wimbledon-2405,2018,wimbledon,2405,Karolina Pliskova,Kiki Bertens,,,,,,,,,,,4.0,31.0
+244,2018-wimbledon-2406,2018,wimbledon,2406,Julia Goerges,Donna Vekic,,,,,,,,,,,14.0,55.0
+245,2018-wimbledon-2407,2018,wimbledon,2407,Serena Williams,Evgeniya Rodina,,,,,,,,,,,22.0,105.0
+246,2018-wimbledon-2408,2018,wimbledon,2408,Camila Giorgi,Ekaterina Makarova,,,,,,,,,,,78.0,33.0
+247,2018-wimbledon-2501,2018,wimbledon,2501,Dominika Cibulkova,Jelena Ostapenko,,,,,,,,,,,26.0,7.0
+248,2018-wimbledon-2502,2018,wimbledon,2502,Daria Kasatkina,Angelique Kerber,,,,,,,,,,,,
+249,2018-wimbledon-2503,2018,wimbledon,2503,Kiki Bertens,Julia Goerges,,,,,,,,,,,31.0,14.0
+250,2018-wimbledon-2504,2018,wimbledon,2504,Serena Williams,Camila Giorgi,,,,,,,,,,,22.0,78.0
+251,2018-wimbledon-2601,2018,wimbledon,2601,Jelena Ostapenko,Angelique Kerber,,,,,,,,,,,7.0,21.0
+252,2018-wimbledon-2602,2018,wimbledon,2602,Julia Goerges,Serena Williams,,,,,,,,,,,14.0,22.0
+253,2018-wimbledon-2701,2018,wimbledon,2701,Angelique Kerber,Serena Williams,,,,,,,,,,,21.0,22.0

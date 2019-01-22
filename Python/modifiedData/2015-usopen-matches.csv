@@ -1,0 +1,177 @@
+,match_id,year,slam,match_num,player1,player2,status,winner,event_name,round,court_name,court_id,player1id,player2id,nation1,nation2,player1_rank,player2_rank
+0,2015-usopen-1101,2015,usopen,1101,Novak Djokovic,Joao Souza,,,,,,,,,,,1.0,89.0
+1,2015-usopen-1108,2015,usopen,1108,Simone Bolelli,David Goffin,,,,,,,,,,,62.0,14.0
+2,2015-usopen-1109,2015,usopen,1109,Milos Raonic,Tim Smyczek,,,,,,,,,,,10.0,95.0
+3,2015-usopen-1110,2015,usopen,1110,Fernando Verdasco,Tommy Haas,,,,,,,,,,,42.0,497.0
+4,2015-usopen-1111,2015,usopen,1111,Marco Cecchinato,Mardy Fish,,,,,,,,,,,102.0,574.0
+5,2015-usopen-1113,2015,usopen,1113,Fabio Fognini,Steve Johnson,,,,,,,,,,,32.0,49.0
+6,2015-usopen-1116,2015,usopen,1116,Borna Coric,Rafael Nadal,,,,,,,,,,,35.0,8.0
+7,2015-usopen-1117,2015,usopen,1117,Kei Nishikori,Benoit Paire,,,,,,,,,,,4.0,41.0
+8,2015-usopen-1120,2015,usopen,1120,Michael Berrer,Tommy Robredo,,,,,,,,,,,120.0,26.0
+9,2015-usopen-1121,2015,usopen,1121,Jo Wilfried Tsonga,Jarkko Nieminen,,,,,,,,,,,19.0,101.0
+10,2015-usopen-1124,2015,usopen,1124,Illya Marchenko,Gael Monfils,,,,,,,,,,,119.0,16.0
+11,2015-usopen-1125,2015,usopen,1125,Marin Cilic,Guido Pella,,,,,,,,,,,9.0,91.0
+12,2015-usopen-1128,2015,usopen,1128,Matthew Ebden,Grigor Dimitrov,,,,,,,,,,,130.0,17.0
+13,2015-usopen-1132,2015,usopen,1132,Radu Albot,David Ferrer,,,,,,,,,,,85.0,7.0
+14,2015-usopen-1133,2015,usopen,1133,Stan Wawrinka,Albert Ramos Vinolas,,,,,,,,,,,,
+15,2015-usopen-1136,2015,usopen,1136,Victor Estrella Burgos,Jack Sock,,,,,,,,,,,,
+16,2015-usopen-1137,2015,usopen,1137,Viktor Troicki,Frances Tiafoe,,,,,,,,,,,,
+17,2015-usopen-1140,2015,usopen,1140,Donald Young,Gilles Simon,,,,,,,,,,,68.0,11.0
+18,2015-usopen-1141,2015,usopen,1141,Kevin Anderson,Andrey Rublev,,,,,,,,,,,15.0,198.0
+19,2015-usopen-1146,2015,usopen,1146,Paul Henri Mathieu,Yoshihito Nishioka,,,,,,,,,,,80.0,127.0
+20,2015-usopen-1148,2015,usopen,1148,Nick Kyrgios,Andy Murray,,,,,,,,,,,37.0,3.0
+21,2015-usopen-1149,2015,usopen,1149,Tomas Berdych,Bjorn Fratangelo,,,,,,,,,,,6.0,111.0
+22,2015-usopen-1151,2015,usopen,1151,Sam Querrey,Nicolas Mahut,,,,,,,,,,,38.0,64.0
+23,2015-usopen-1153,2015,usopen,1153,Bernard Tomic,Damir Dzumhur,,,,,,,,,,,24.0,94.0
+24,2015-usopen-1154,2015,usopen,1154,Aleksandr Nedovyesov,Lleyton Hewitt,,,,,,,,,,,96.0,347.0
+25,2015-usopen-1156,2015,usopen,1156,Thanasi Kokkinakis,Richard Gasquet,,,,,,,,,,,70.0,12.0
+26,2015-usopen-1157,2015,usopen,1157,John Isner,Malek Jaziri,,,,,,,,,,,13.0,88.0
+27,2015-usopen-1164,2015,usopen,1164,Leonardo Mayer,Roger Federer,,,,,,,,,,,33.0,2.0
+28,2015-usopen-1201,2015,usopen,1201,Novak Djokovic,Andreas Haider Maurer,,,,,,,,,,,1.0,52.0
+29,2015-usopen-1202,2015,usopen,1202,Teymuraz Gabashvili,Andreas Seppi,,,,,,,,,,,53.0,25.0
+30,2015-usopen-1204,2015,usopen,1204,Ricardas Berankis,David Goffin,,,,,,,,,,,78.0,14.0
+31,2015-usopen-1205,2015,usopen,1205,Milos Raonic,Fernando Verdasco,,,,,,,,,,,10.0,42.0
+32,2015-usopen-1206,2015,usopen,1206,Mardy Fish,Feliciano Lopez,,,,,,,,,,,574.0,18.0
+33,2015-usopen-1207,2015,usopen,1207,Fabio Fognini,Pablo Cuevas,,,,,,,,,,,32.0,40.0
+34,2015-usopen-1208,2015,usopen,1208,Diego Schwartzman,Rafael Nadal,,,,,,,,,,,,
+35,2015-usopen-1209,2015,usopen,1209,Benoit Paire,Marsel Ilhan,,,,,,,,,,,41.0,83.0
+36,2015-usopen-1210,2015,usopen,1210,Sam Groth,Tommy Robredo,,,,,,,,,,,,
+37,2015-usopen-1211,2015,usopen,1211,Jo Wilfried Tsonga,Marcel Granollers,,,,,,,,,,,19.0,77.0
+38,2015-usopen-1213,2015,usopen,1213,Marin Cilic,Evgeny Donskoy,,,,,,,,,,,9.0,138.0
+39,2015-usopen-1214,2015,usopen,1214,Mikhail Kukushkin,Grigor Dimitrov,,,,,,,,,,,55.0,17.0
+40,2015-usopen-1215,2015,usopen,1215,Jeremy Chardy,Martin Klizan,,,,,,,,,,,27.0,36.0
+41,2015-usopen-1216,2015,usopen,1216,Filip Krajinovic,David Ferrer,,,,,,,,,,,98.0,7.0
+42,2015-usopen-1217,2015,usopen,1217,Stan Wawrinka,Hyeon Chung,,,,,,,,,,,,
+43,2015-usopen-1218,2015,usopen,1218,Ruben Bemelmans,Jack Sock,,,,,,,,,,,103.0,28.0
+44,2015-usopen-1219,2015,usopen,1219,Viktor Troicki,Rajeev Ram,,,,,,,,,,,22.0,87.0
+45,2015-usopen-1220,2015,usopen,1220,Aljaz Bedene,Donald Young,,,,,,,,,,,58.0,68.0
+46,2015-usopen-1221,2015,usopen,1221,Kevin Anderson,Austin Krajicek,,,,,,,,,,,15.0,115.0
+47,2015-usopen-1223,2015,usopen,1223,Thomaz Bellucci,Yoshihito Nishioka,,,,,,,,,,,30.0,127.0
+48,2015-usopen-1224,2015,usopen,1224,Adrian Mannarino,Andy Murray,,,,,,,,,,,34.0,3.0
+49,2015-usopen-1225,2015,usopen,1225,Tomas Berdych,Jurgen Melzer,,,,,,,,,,,6.0,131.0
+50,2015-usopen-1226,2015,usopen,1226,Nicolas Mahut,Guillermo Garcia Lopez,,,,,,,,,,,64.0,31.0
+51,2015-usopen-1227,2015,usopen,1227,Bernard Tomic,Lleyton Hewitt,,,,,,,,,,,24.0,347.0
+52,2015-usopen-1228,2015,usopen,1228,Robin Haase,Richard Gasquet,,,,,,,,,,,79.0,12.0
+53,2015-usopen-1229,2015,usopen,1229,John Isner,Mikhail Youzhny,,,,,,,,,,,13.0,90.0
+54,2015-usopen-1231,2015,usopen,1231,Philipp Kohlschreiber,Lukas Rosol,,,,,,,,,,,29.0,86.0
+55,2015-usopen-1232,2015,usopen,1232,Steve Darcis,Roger Federer,,,,,,,,,,,66.0,2.0
+56,2015-usopen-1301,2015,usopen,1301,Novak Djokovic,Andreas Seppi,,,,,,,,,,,1.0,25.0
+57,2015-usopen-1302,2015,usopen,1302,Roberto Bautista Agut,David Goffin,,,,,,,,,,,23.0,14.0
+58,2015-usopen-1303,2015,usopen,1303,Milos Raonic,Feliciano Lopez,,,,,,,,,,,10.0,18.0
+59,2015-usopen-1304,2015,usopen,1304,Fabio Fognini,Rafael Nadal,,,,,,,,,,,32.0,8.0
+60,2015-usopen-1305,2015,usopen,1305,Benoit Paire,Tommy Robredo,,,,,,,,,,,41.0,26.0
+61,2015-usopen-1306,2015,usopen,1306,Jo Wilfried Tsonga,Sergiy Stakhovsky,,,,,,,,,,,19.0,60.0
+62,2015-usopen-1307,2015,usopen,1307,Marin Cilic,Mikhail Kukushkin,,,,,,,,,,,9.0,55.0
+63,2015-usopen-1308,2015,usopen,1308,Jeremy Chardy,David Ferrer,,,,,,,,,,,27.0,7.0
+64,2015-usopen-1309,2015,usopen,1309,Stan Wawrinka,Ruben Bemelmans,,,,,,,,,,,,
+65,2015-usopen-1310,2015,usopen,1310,Viktor Troicki,Donald Young,,,,,,,,,,,22.0,68.0
+66,2015-usopen-1311,2015,usopen,1311,Kevin Anderson,Dominic Thiem,,,,,,,,,,,15.0,20.0
+67,2015-usopen-1312,2015,usopen,1312,Thomaz Bellucci,Andy Murray,,,,,,,,,,,30.0,3.0
+68,2015-usopen-1313,2015,usopen,1313,Tomas Berdych,Guillermo Garcia Lopez,,,,,,,,,,,6.0,31.0
+69,2015-usopen-1314,2015,usopen,1314,Bernard Tomic,Richard Gasquet,,,,,,,,,,,24.0,12.0
+70,2015-usopen-1315,2015,usopen,1315,John Isner,Jiri Vesely,,,,,,,,,,,13.0,47.0
+71,2015-usopen-1316,2015,usopen,1316,Philipp Kohlschreiber,Roger Federer,,,,,,,,,,,29.0,2.0
+72,2015-usopen-1401,2015,usopen,1401,Novak Djokovic,Roberto Bautista Agut,,,,,,,,,,,1.0,23.0
+73,2015-usopen-1402,2015,usopen,1402,Feliciano Lopez,Fabio Fognini,,,,,,,,,,,18.0,32.0
+74,2015-usopen-1403,2015,usopen,1403,Benoit Paire,Jo Wilfried Tsonga,,,,,,,,,,,41.0,19.0
+75,2015-usopen-1404,2015,usopen,1404,Marin Cilic,Jeremy Chardy,,,,,,,,,,,9.0,27.0
+76,2015-usopen-1405,2015,usopen,1405,Stan Wawrinka,Donald Young,,,,,,,,,,,,
+77,2015-usopen-1406,2015,usopen,1406,Kevin Anderson,Andy Murray,,,,,,,,,,,15.0,3.0
+78,2015-usopen-1407,2015,usopen,1407,Tomas Berdych,Richard Gasquet,,,,,,,,,,,6.0,12.0
+79,2015-usopen-1408,2015,usopen,1408,John Isner,Roger Federer,,,,,,,,,,,13.0,2.0
+80,2015-usopen-1501,2015,usopen,1501,Novak Djokovic,Feliciano Lopez,,,,,,,,,,,1.0,18.0
+81,2015-usopen-1502,2015,usopen,1502,Jo Wilfried Tsonga,Marin Cilic,,,,,,,,,,,19.0,9.0
+82,2015-usopen-1503,2015,usopen,1503,Stan Wawrinka,Kevin Anderson,,,,,,,,,,,,
+83,2015-usopen-1504,2015,usopen,1504,Richard Gasquet,Roger Federer,,,,,,,,,,,12.0,2.0
+84,2015-usopen-1601,2015,usopen,1601,Novak Djokovic,Marin Cilic,,,,,,,,,,,1.0,9.0
+85,2015-usopen-1602,2015,usopen,1602,Stan Wawrinka,Roger Federer,,,,,,,,,,,,
+86,2015-usopen-1701,2015,usopen,1701,Novak Djokovic,Roger Federer,,,,,,,,,,,1.0,2.0
+87,2015-usopen-2101,2015,usopen,2101,Serena Williams,Vitalia Diatchenko,,,,,,,,,,,1.0,86.0
+88,2015-usopen-2103,2015,usopen,2103,Kateryna Kozlova,Bethanie Mattek Sands,,,,,,,,,,,208.0,101.0
+89,2015-usopen-2104,2015,usopen,2104,Coco Vandeweghe,Sloane Stephens,,,,,,,,,,,43.0,29.0
+90,2015-usopen-2105,2015,usopen,2105,Madison Keys,Klara Koukalova,,,,,,,,,,,19.0,108.0
+91,2015-usopen-2108,2015,usopen,2108,Katerina Siniakova,Agnieszka Radwanska,,,,,,,,,,,68.0,15.0
+92,2015-usopen-2109,2015,usopen,2109,Belinda Bencic,Sesil Karatantcheva,,,,,,,,,,,12.0,106.0
+93,2015-usopen-2111,2015,usopen,2111,Irina Falconi,Samantha Crawford,,,,,,,,,,,72.0,220.0
+94,2015-usopen-2112,2015,usopen,2112,Monica Puig,Venus Williams,,,,,,,,,,,85.0,23.0
+95,2015-usopen-2116,2015,usopen,2116,Anna Tatishvili,Karolina Pliskova,,,,,,,,,,,121.0,8.0
+96,2015-usopen-2117,2015,usopen,2117,Daria Kasatkina,Daria Gavrilova,,,,,,,,,,,,
+97,2015-usopen-2123,2015,usopen,2123,Lauren Davis,Heather Watson,,,,,,,,,,,84.0,61.0
+98,2015-usopen-2126,2015,usopen,2126,Vania King,Roberta Vinci,,,,,,,,,,,412.0,47.0
+99,2015-usopen-2128,2015,usopen,2128,Oceane Dodin,Jelena Jankovic,,,,,,,,,,,128.0,21.0
+100,2015-usopen-2129,2015,usopen,2129,Eugenie Bouchard,Alison Riske,,,,,,,,,,,25.0,56.0
+101,2015-usopen-2132,2015,usopen,2132,Dominika Cibulkova,Ana Ivanovic,,,,,,,,,,,58.0,7.0
+102,2015-usopen-2133,2015,usopen,2133,Petra Kvitova,Laura Siegemund,,,,,,,,,,,5.0,126.0
+103,2015-usopen-2137,2015,usopen,2137,Andrea Petkovic,Caroline Garcia,,,,,,,,,,,18.0,36.0
+104,2015-usopen-2138,2015,usopen,2138,Laura Robson,Elena Vesnina,,,,,,,,,,,727.0,110.0
+105,2015-usopen-2139,2015,usopen,2139,Louisa Chirico,Johanna Konta,,,,,,,,,,,120.0,96.0
+106,2015-usopen-2140,2015,usopen,2140,Carina Witthoeft,Garbine Muguruza,,,,,,,,,,,49.0,9.0
+107,2015-usopen-2141,2015,usopen,2141,Sara Errani,Mayo Hibi,,,,,,,,,,,16.0,177.0
+108,2015-usopen-2144,2015,usopen,2144,Timea Babos,Samantha Stosur,,,,,,,,,,,73.0,22.0
+109,2015-usopen-2148,2015,usopen,2148,Jamie Loeb,Caroline Wozniacki,,,,,,,,,,,411.0,4.0
+110,2015-usopen-2149,2015,usopen,2149,Lucie Safarova,Lesia Tsurenko,,,,,,,,,,,6.0,46.0
+111,2015-usopen-2150,2015,usopen,2150,Varvara Lepchenko,Kirsten Flipkens,,,,,,,,,,,44.0,89.0
+112,2015-usopen-2153,2015,usopen,2153,Victoria Azarenka,Lucie Hradecka,,,,,,,,,,,20.0,55.0
+113,2015-usopen-2154,2015,usopen,2154,Francesca Schiavone,Yanina Wickmayer,,,,,,,,,,,94.0,90.0
+114,2015-usopen-2156,2015,usopen,2156,Alexandra Dulgheru,Angelique Kerber,,,,,,,,,,,51.0,11.0
+115,2015-usopen-2161,2015,usopen,2161,Alize Cornet,Kurumi Nara,,,,,,,,,,,27.0,82.0
+116,2015-usopen-2164,2015,usopen,2164,Marina Erakovic,Simona Halep,,,,,,,,,,,99.0,2.0
+117,2015-usopen-2201,2015,usopen,2201,Serena Williams,Kiki Bertens,,,,,,,,,,,1.0,109.0
+118,2015-usopen-2202,2015,usopen,2202,Bethanie Mattek Sands,Coco Vandeweghe,,,,,,,,,,,101.0,43.0
+119,2015-usopen-2203,2015,usopen,2203,Madison Keys,Tereza Smitkova,,,,,,,,,,,19.0,100.0
+120,2015-usopen-2204,2015,usopen,2204,Magda Linette,Agnieszka Radwanska,,,,,,,,,,,92.0,15.0
+121,2015-usopen-2205,2015,usopen,2205,Belinda Bencic,Misaki Doi,,,,,,,,,,,12.0,88.0
+122,2015-usopen-2206,2015,usopen,2206,Irina Falconi,Venus Williams,,,,,,,,,,,72.0,23.0
+123,2015-usopen-2207,2015,usopen,2207,Anastasia Pavlyuchenkova,Anett Kontaveit,,,,,,,,,,,31.0,152.0
+124,2015-usopen-2208,2015,usopen,2208,Madison Brengle,Anna Tatishvili,,,,,,,,,,,45.0,121.0
+125,2015-usopen-2210,2015,usopen,2210,Bojana Jovanovski,Kristina Mladenovic,,,,,,,,,,,97.0,39.0
+126,2015-usopen-2212,2015,usopen,2212,Lauren Davis,Ekaterina Makarova,,,,,,,,,,,84.0,13.0
+127,2015-usopen-2213,2015,usopen,2213,Denisa Allertova,Roberta Vinci,,,,,,,,,,,76.0,47.0
+128,2015-usopen-2214,2015,usopen,2214,Mariana Duque Marino,Oceane Dodin,,,,,,,,,,,98.0,128.0
+129,2015-usopen-2215,2015,usopen,2215,Eugenie Bouchard,Polona Hercog,,,,,,,,,,,25.0,64.0
+130,2015-usopen-2216,2015,usopen,2216,Jessica Pegula,Dominika Cibulkova,,,,,,,,,,,257.0,58.0
+131,2015-usopen-2217,2015,usopen,2217,Petra Kvitova,Nicole Gibbs,,,,,,,,,,,5.0,117.0
+132,2015-usopen-2218,2015,usopen,2218,Danka Kovinic,Anna Karolina Schmiedlova,,,,,,,,,,,81.0,32.0
+133,2015-usopen-2219,2015,usopen,2219,Andrea Petkovic,Elena Vesnina,,,,,,,,,,,18.0,110.0
+134,2015-usopen-2220,2015,usopen,2220,Johanna Konta,Garbine Muguruza,,,,,,,,,,,96.0,9.0
+135,2015-usopen-2221,2015,usopen,2221,Sara Errani,Jelena Ostapenko,,,,,,,,,,,16.0,114.0
+136,2015-usopen-2222,2015,usopen,2222,Evgeniya Rodina,Samantha Stosur,,,,,,,,,,,93.0,22.0
+137,2015-usopen-2223,2015,usopen,2223,Flavia Pennetta,Monica Niculescu,,,,,,,,,,,26.0,40.0
+138,2015-usopen-2224,2015,usopen,2224,Petra Cetkovska,Caroline Wozniacki,,,,,,,,,,,149.0,4.0
+139,2015-usopen-2225,2015,usopen,2225,Lesia Tsurenko,Varvara Lepchenko,,,,,,,,,,,46.0,44.0
+140,2015-usopen-2226,2015,usopen,2226,Mona Barthel,Olga Govortsova,,,,,,,,,,,52.0,69.0
+141,2015-usopen-2227,2015,usopen,2227,Victoria Azarenka,Yanina Wickmayer,,,,,,,,,,,20.0,90.0
+142,2015-usopen-2228,2015,usopen,2228,Karin Knapp,Angelique Kerber,,,,,,,,,,,33.0,11.0
+143,2015-usopen-2230,2015,usopen,2230,Camila Giorgi,Sabine Lisicki,,,,,,,,,,,35.0,24.0
+144,2015-usopen-2231,2015,usopen,2231,Kurumi Nara,Shelby Rogers,,,,,,,,,,,82.0,154.0
+145,2015-usopen-2232,2015,usopen,2232,Kateryna Bondarenko,Simona Halep,,,,,,,,,,,104.0,2.0
+146,2015-usopen-2301,2015,usopen,2301,Serena Williams,Bethanie Mattek Sands,,,,,,,,,,,1.0,101.0
+147,2015-usopen-2302,2015,usopen,2302,Madison Keys,Agnieszka Radwanska,,,,,,,,,,,19.0,15.0
+148,2015-usopen-2303,2015,usopen,2303,Belinda Bencic,Venus Williams,,,,,,,,,,,12.0,23.0
+149,2015-usopen-2304,2015,usopen,2304,Anett Kontaveit,Madison Brengle,,,,,,,,,,,152.0,45.0
+150,2015-usopen-2305,2015,usopen,2305,Daria Kasatkina,Kristina Mladenovic,,,,,,,,,,,,
+151,2015-usopen-2306,2015,usopen,2306,Elina Svitolina,Ekaterina Makarova,,,,,,,,,,,17.0,13.0
+152,2015-usopen-2307,2015,usopen,2307,Roberta Vinci,Mariana Duque Marino,,,,,,,,,,,47.0,98.0
+153,2015-usopen-2308,2015,usopen,2308,Eugenie Bouchard,Dominika Cibulkova,,,,,,,,,,,25.0,58.0
+154,2015-usopen-2309,2015,usopen,2309,Petra Kvitova,Anna Karolina Schmiedlova,,,,,,,,,,,5.0,32.0
+155,2015-usopen-2310,2015,usopen,2310,Andrea Petkovic,Johanna Konta,,,,,,,,,,,18.0,96.0
+156,2015-usopen-2311,2015,usopen,2311,Sara Errani,Samantha Stosur,,,,,,,,,,,16.0,22.0
+157,2015-usopen-2312,2015,usopen,2312,Flavia Pennetta,Petra Cetkovska,,,,,,,,,,,26.0,149.0
+158,2015-usopen-2313,2015,usopen,2313,Varvara Lepchenko,Mona Barthel,,,,,,,,,,,44.0,52.0
+159,2015-usopen-2314,2015,usopen,2314,Victoria Azarenka,Angelique Kerber,,,,,,,,,,,20.0,11.0
+160,2015-usopen-2315,2015,usopen,2315,Barbora Strycova,Sabine Lisicki,,,,,,,,,,,,
+161,2015-usopen-2316,2015,usopen,2316,Shelby Rogers,Simona Halep,,,,,,,,,,,154.0,2.0
+162,2015-usopen-2401,2015,usopen,2401,Serena Williams,Madison Keys,,,,,,,,,,,1.0,19.0
+163,2015-usopen-2402,2015,usopen,2402,Venus Williams,Anett Kontaveit,,,,,,,,,,,23.0,152.0
+164,2015-usopen-2403,2015,usopen,2403,Kristina Mladenovic,Ekaterina Makarova,,,,,,,,,,,39.0,13.0
+165,2015-usopen-2405,2015,usopen,2405,Petra Kvitova,Johanna Konta,,,,,,,,,,,5.0,96.0
+166,2015-usopen-2406,2015,usopen,2406,Samantha Stosur,Flavia Pennetta,,,,,,,,,,,22.0,26.0
+167,2015-usopen-2407,2015,usopen,2407,Varvara Lepchenko,Victoria Azarenka,,,,,,,,,,,44.0,20.0
+168,2015-usopen-2408,2015,usopen,2408,Sabine Lisicki,Simona Halep,,,,,,,,,,,24.0,2.0
+169,2015-usopen-2501,2015,usopen,2501,Serena Williams,Venus Williams,,,,,,,,,,,1.0,23.0
+170,2015-usopen-2502,2015,usopen,2502,Kristina Mladenovic,Roberta Vinci,,,,,,,,,,,39.0,47.0
+171,2015-usopen-2503,2015,usopen,2503,Petra Kvitova,Flavia Pennetta,,,,,,,,,,,5.0,26.0
+172,2015-usopen-2504,2015,usopen,2504,Victoria Azarenka,Simona Halep,,,,,,,,,,,20.0,2.0
+173,2015-usopen-2601,2015,usopen,2601,Serena Williams,Roberta Vinci,,,,,,,,,,,1.0,47.0
+174,2015-usopen-2602,2015,usopen,2602,Flavia Pennetta,Simona Halep,,,,,,,,,,,26.0,2.0
+175,2015-usopen-2701,2015,usopen,2701,Roberta Vinci,Flavia Pennetta,,,,,,,,,,,47.0,26.0
