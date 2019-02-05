@@ -1,0 +1,168 @@
+,match_id,year,slam,match_num,player1,player2,status,winner,event_name,round,court_name,court_id,player1id,player2id,nation1,nation2,player1_rank,player2_rank
+0,2013-usopen-1101,2013,usopen,1101,Novak Djokovic,Ricardas Berankis,,,,,,,,,,,1.0,126.0
+1,2013-usopen-1105,2013,usopen,1105,Benoit Paire,Alex Bogomolov Jr.,,,,,,,,,,,,
+2,2013-usopen-1106,2013,usopen,1106,Tim Smyczek,James Duckworth,,,,,,,,,,,109.0,149.0
+3,2013-usopen-1108,2013,usopen,1108,Rajeev Ram,Fabio Fognini,,,,,,,,,,,128.0,18.0
+4,2013-usopen-1109,2013,usopen,1109,Tommy Haas,Paul-Henri Mathieu,,,,,,,,,,,,
+5,2013-usopen-1115,2013,usopen,1115,Lleyton Hewitt,Brian Baker,,,,,,,,,,,67.0,185.0
+6,2013-usopen-1116,2013,usopen,1116,Guillermo Garcia-Lopez,Juan Martin Del Potro,,,,,,,,,,,,
+7,2013-usopen-1117,2013,usopen,1117,Andy Murray,Michael Llodra,,,,,,,,,,,3.0,49.0
+8,2013-usopen-1119,2013,usopen,1119,Donald Young,Martin Klizan,,,,,,,,,,,156.0,46.0
+9,2013-usopen-1122,2013,usopen,1122,Lukas Lacko,Somdev Devvarman,,,,,,,,,,,85.0,113.0
+10,2013-usopen-1123,2013,usopen,1123,Tobias Kamke,Steve Johnson,,,,,,,,,,,91.0,121.0
+11,2013-usopen-1125,2013,usopen,1125,Stanislas Wawrinka,Radek Stepanek,,,,,,,,,,,10.0,58.0
+12,2013-usopen-1126,2013,usopen,1126,James Blake,Ivo Karlovic,,,,,,,,,,,100.0,78.0
+13,2013-usopen-1127,2013,usopen,1127,Marcos Baghdatis,Go Soeda,,,,,,,,,,,53.0,132.0
+14,2013-usopen-1128,2013,usopen,1128,Daniel Brands,Kevin Anderson,,,,,,,,,,,51.0,20.0
+15,2013-usopen-1132,2013,usopen,1132,Paolo Lorenzi,Tomas Berdych,,,,,,,,,,,79.0,5.0
+16,2013-usopen-1133,2013,usopen,1133,Richard Gasquet,Michael Russell,,,,,,,,,,,9.0,92.0
+17,2013-usopen-1138,2013,usopen,1138,Kenny De Schepper,Bradley Klahn,,,,,,,,,,,71.0,123.0
+18,2013-usopen-1140,2013,usopen,1140,Thomas Fabbiano,Milos Raonic,,,,,,,,,,,177.0,11.0
+19,2013-usopen-1141,2013,usopen,1141,Jerzy Janowicz,Maximo Gonzalez,,,,,,,,,,,15.0,248.0
+20,2013-usopen-1142,2013,usopen,1142,Jack Sock,Philipp Petzschner,,,,,,,,,,,87.0,164.0
+21,2013-usopen-1144,2013,usopen,1144,Pablo Cuevas,Janko Tipsarevic,,,,,,,,,,,490.0,21.0
+22,2013-usopen-1148,2013,usopen,1148,Nick Kyrgios,David Ferrer,,,,,,,,,,,215.0,4.0
+23,2013-usopen-1149,2013,usopen,1149,Roger Federer,Grega Zemlja,,,,,,,,,,,7.0,61.0
+24,2013-usopen-1150,2013,usopen,1150,Santiago Giraldo,Carlos Berlocq,,,,,,,,,,,86.0,48.0
+25,2013-usopen-1152,2013,usopen,1152,Guido Pella,Sam Querrey,,,,,,,,,,,94.0,29.0
+26,2013-usopen-1153,2013,usopen,1153,Tommy Robredo,Marinko Matosevic,,,,,,,,,,,22.0,56.0
+27,2013-usopen-1155,2013,usopen,1155,Albert Ramos,Bernard Tomic,,,,,,,,,,,74.0,52.0
+28,2013-usopen-1156,2013,usopen,1156,Daniel Evans,Kei Nishikori,,,,,,,,,,,179.0,12.0
+29,2013-usopen-1157,2013,usopen,1157,John Isner,Filippo Volandri,,,,,,,,,,,14.0,102.0
+30,2013-usopen-1158,2013,usopen,1158,Adrian Ungur,Gael Monfils,,,,,,,,,,,106.0,43.0
+31,2013-usopen-1160,2013,usopen,1160,Collin Altamirano,Philipp Kohlschreiber,,,,,,,,,,,,
+32,2013-usopen-1161,2013,usopen,1161,Fernando Verdasco,Ivan Dodig,,,,,,,,,,,30.0,37.0
+33,2013-usopen-1164,2013,usopen,1164,Ryan Harrison,Rafael Nadal,,,,,,,,,,,97.0,2.0
+34,2013-usopen-1201,2013,usopen,1201,Novak Djokovic,Benjamin Becker,,,,,,,,,,,1.0,88.0
+35,2013-usopen-1203,2013,usopen,1203,Alex Bogomolov Jr.,Tim Smyczek,,,,,,,,,,,,
+36,2013-usopen-1204,2013,usopen,1204,Marcel Granollers,Rajeev Ram,,,,,,,,,,,42.0,128.0
+37,2013-usopen-1205,2013,usopen,1205,Tommy Haas,Yen-Hsun Lu,,,,,,,,,,,,
+38,2013-usopen-1208,2013,usopen,1208,Lleyton Hewitt,Juan Martin Del Potro,,,,,,,,,,,67.0,6.0
+39,2013-usopen-1209,2013,usopen,1209,Andy Murray,Leonardo Mayer,,,,,,,,,,,3.0,81.0
+40,2013-usopen-1210,2013,usopen,1210,Donald Young,Florian Mayer,,,,,,,,,,,156.0,47.0
+41,2013-usopen-1211,2013,usopen,1211,Andreas Seppi,Somdev Devvarman,,,,,,,,,,,23.0,113.0
+42,2013-usopen-1213,2013,usopen,1213,Stanislas Wawrinka,Ivo Karlovic,,,,,,,,,,,10.0,78.0
+43,2013-usopen-1214,2013,usopen,1214,Marcos Baghdatis,Kevin Anderson,,,,,,,,,,,53.0,20.0
+44,2013-usopen-1215,2013,usopen,1215,Julien Benneteau,Jeremy Chardy,,,,,,,,,,,34.0,36.0
+45,2013-usopen-1216,2013,usopen,1216,Denis Kudla,Tomas Berdych,,,,,,,,,,,105.0,5.0
+46,2013-usopen-1217,2013,usopen,1217,Richard Gasquet,Stephane Robert,,,,,,,,,,,9.0,150.0
+47,2013-usopen-1219,2013,usopen,1219,Feliciano Lopez,Bradley Klahn,,,,,,,,,,,26.0,123.0
+48,2013-usopen-1220,2013,usopen,1220,Pablo Andujar,Milos Raonic,,,,,,,,,,,55.0,11.0
+49,2013-usopen-1221,2013,usopen,1221,Maximo Gonzalez,Jack Sock,,,,,,,,,,,248.0,87.0
+50,2013-usopen-1224,2013,usopen,1224,Roberto Bautista Agut,David Ferrer,,,,,,,,,,,64.0,4.0
+51,2013-usopen-1225,2013,usopen,1225,Roger Federer,Carlos Berlocq,,,,,,,,,,,7.0,48.0
+52,2013-usopen-1226,2013,usopen,1226,Adrian Mannarino,Sam Querrey,,,,,,,,,,,63.0,29.0
+53,2013-usopen-1227,2013,usopen,1227,Tommy Robredo,Frank Dancevic,,,,,,,,,,,22.0,153.0
+54,2013-usopen-1228,2013,usopen,1228,Bernard Tomic,Daniel Evans,,,,,,,,,,,52.0,179.0
+55,2013-usopen-1229,2013,usopen,1229,John Isner,Gael Monfils,,,,,,,,,,,14.0,43.0
+56,2013-usopen-1230,2013,usopen,1230,Edouard Roger-Vasselin,Philipp Kohlschreiber,,,,,,,,,,,,
+57,2013-usopen-1232,2013,usopen,1232,Rogerio Dutra Silva,Rafael Nadal,,,,,,,,,,,134.0,2.0
+58,2013-usopen-1301,2013,usopen,1301,Novak Djokovic,Joao Sousa,,,,,,,,,,,1.0,96.0
+59,2013-usopen-1302,2013,usopen,1302,Tim Smyczek,Marcel Granollers,,,,,,,,,,,109.0,42.0
+60,2013-usopen-1303,2013,usopen,1303,Tommy Haas,Mikhail Youzhny,,,,,,,,,,,13.0,24.0
+61,2013-usopen-1304,2013,usopen,1304,Evgeny Donskoy,Lleyton Hewitt,,,,,,,,,,,83.0,67.0
+62,2013-usopen-1305,2013,usopen,1305,Andy Murray,Florian Mayer,,,,,,,,,,,3.0,47.0
+63,2013-usopen-1306,2013,usopen,1306,Andreas Seppi,Denis Istomin,,,,,,,,,,,23.0,65.0
+64,2013-usopen-1307,2013,usopen,1307,Stanislas Wawrinka,Marcos Baghdatis,,,,,,,,,,,10.0,53.0
+65,2013-usopen-1308,2013,usopen,1308,Julien Benneteau,Tomas Berdych,,,,,,,,,,,34.0,5.0
+66,2013-usopen-1309,2013,usopen,1309,Richard Gasquet,Dmitry Tursunov,,,,,,,,,,,9.0,35.0
+67,2013-usopen-1310,2013,usopen,1310,Feliciano Lopez,Milos Raonic,,,,,,,,,,,26.0,11.0
+68,2013-usopen-1311,2013,usopen,1311,Jack Sock,Janko Tipsarevic,,,,,,,,,,,87.0,21.0
+69,2013-usopen-1312,2013,usopen,1312,Mikhail Kukushkin,David Ferrer,,,,,,,,,,,174.0,4.0
+70,2013-usopen-1313,2013,usopen,1313,Roger Federer,Adrian Mannarino,,,,,,,,,,,7.0,63.0
+71,2013-usopen-1314,2013,usopen,1314,Tommy Robredo,Daniel Evans,,,,,,,,,,,22.0,179.0
+72,2013-usopen-1315,2013,usopen,1315,John Isner,Philipp Kohlschreiber,,,,,,,,,,,14.0,25.0
+73,2013-usopen-1316,2013,usopen,1316,Ivan Dodig,Rafael Nadal,,,,,,,,,,,37.0,2.0
+74,2013-usopen-1401,2013,usopen,1401,Novak Djokovic,Marcel Granollers,,,,,,,,,,,1.0,42.0
+75,2013-usopen-1402,2013,usopen,1402,Mikhail Youzhny,Lleyton Hewitt,,,,,,,,,,,24.0,67.0
+76,2013-usopen-1403,2013,usopen,1403,Andy Murray,Denis Istomin,,,,,,,,,,,3.0,65.0
+77,2013-usopen-1404,2013,usopen,1404,Stanislas Wawrinka,Tomas Berdych,,,,,,,,,,,10.0,5.0
+78,2013-usopen-1405,2013,usopen,1405,Richard Gasquet,Milos Raonic,,,,,,,,,,,9.0,11.0
+79,2013-usopen-1406,2013,usopen,1406,Janko Tipsarevic,David Ferrer,,,,,,,,,,,21.0,4.0
+80,2013-usopen-1407,2013,usopen,1407,Roger Federer,Tommy Robredo,,,,,,,,,,,7.0,22.0
+81,2013-usopen-1408,2013,usopen,1408,Philipp Kohlschreiber,Rafael Nadal,,,,,,,,,,,25.0,2.0
+82,2013-usopen-1501,2013,usopen,1501,Novak Djokovic,Mikhail Youzhny,,,,,,,,,,,1.0,24.0
+83,2013-usopen-1502,2013,usopen,1502,Andy Murray,Stanislas Wawrinka,,,,,,,,,,,3.0,10.0
+84,2013-usopen-1503,2013,usopen,1503,Richard Gasquet,David Ferrer,,,,,,,,,,,9.0,4.0
+85,2013-usopen-1504,2013,usopen,1504,Tommy Robredo,Rafael Nadal,,,,,,,,,,,22.0,2.0
+86,2013-usopen-1601,2013,usopen,1601,Novak Djokovic,Stanislas Wawrinka,,,,,,,,,,,1.0,10.0
+87,2013-usopen-1602,2013,usopen,1602,Richard Gasquet,Rafael Nadal,,,,,,,,,,,9.0,2.0
+88,2013-usopen-1701,2013,usopen,1701,Novak Djokovic,Rafael Nadal,,,,,,,,,,,1.0,2.0
+89,2013-usopen-2101,2013,usopen,2101,Serena Williams,Francesca Schiavone,,,,,,,,,,,1.0,56.0
+90,2013-usopen-2105,2013,usopen,2105,Jamie Hampton,Lara Arruabarrena,,,,,,,,,,,25.0,87.0
+91,2013-usopen-2106,2013,usopen,2106,Kristina Mladenovic,A.Medina Garrigues,,,,,,,,,,,,
+92,2013-usopen-2108,2013,usopen,2108,Mandy Minella,Sloane Stephens,,,,,,,,,,,110.0,17.0
+93,2013-usopen-2109,2013,usopen,2109,Kirsten Flipkens,Venus Williams,,,,,,,,,,,14.0,60.0
+94,2013-usopen-2112,2013,usopen,2112,Lauren Davis,Carla Suarez Navarro,,,,,,,,,,,70.0,20.0
+95,2013-usopen-2115,2013,usopen,2115,Karolina Pliskova,Eugenie Bouchard,,,,,,,,,,,72.0,57.0
+96,2013-usopen-2116,2013,usopen,2116,Lucie Hradecka,Angelique Kerber,,,,,,,,,,,84.0,10.0
+97,2013-usopen-2117,2013,usopen,2117,Agnieszka Radwanska,Silvia Soler-Espinosa,,,,,,,,,,,,
+98,2013-usopen-2123,2013,usopen,2123,Paula Ormaechea,Kimiko Date-Krumm,,,,,,,,,,,,
+99,2013-usopen-2124,2013,usopen,2124,Vera Dushevina,Sabine Lisicki,,,,,,,,,,,123.0,18.0
+100,2013-usopen-2125,2013,usopen,2125,Jelena Jankovic,Madison Keys,,,,,,,,,,,11.0,40.0
+101,2013-usopen-2129,2013,usopen,2129,Laura Robson,Lourdes Dominguez Lino,,,,,,,,,,,32.0,53.0
+102,2013-usopen-2132,2013,usopen,2132,Olga Govortsova,Na Li,,,,,,,,,,,75.0,6.0
+103,2013-usopen-2133,2013,usopen,2133,Caroline Wozniacki,Ying-Ying Duan,,,,,,,,,,,,
+104,2013-usopen-2144,2013,usopen,2144,Heather Watson,Simona Halep,,,,,,,,,,,77.0,23.0
+105,2013-usopen-2145,2013,usopen,2145,Svetlana Kuznetsova,Mallory Burdette,,,,,,,,,,,29.0,97.0
+106,2013-usopen-2146,2013,usopen,2146,Shuai Peng,Yvonne Meusburger,,,,,,,,,,,36.0,64.0
+107,2013-usopen-2148,2013,usopen,2148,Olivia Rogowska,Sara Errani,,,,,,,,,,,152.0,5.0
+108,2013-usopen-2149,2013,usopen,2149,Petra Kvitova,Misaki Doi,,,,,,,,,,,9.0,92.0
+109,2013-usopen-2150,2013,usopen,2150,Bojana Jovanovski,Andrea Petkovic,,,,,,,,,,,51.0,43.0
+110,2013-usopen-2156,2013,usopen,2156,Victoria Duval,Samantha Stosur,,,,,,,,,,,298.0,13.0
+111,2013-usopen-2157,2013,usopen,2157,Ana Ivanovic,Anna Tatishvili,,,,,,,,,,,15.0,115.0
+112,2013-usopen-2158,2013,usopen,2158,Varvara Lepchenko,Alexandra Dulgheru,,,,,,,,,,,35.0,215.0
+113,2013-usopen-2159,2013,usopen,2159,Julia Goerges,Christina McHale,,,,,,,,,,,,
+114,2013-usopen-2161,2013,usopen,2161,Alize Cornet,Maria Joao Koehler,,,,,,,,,,,28.0,126.0
+115,2013-usopen-2164,2013,usopen,2164,Dinah Pfizenmaier,Victoria Azarenka,,,,,,,,,,,99.0,2.0
+116,2013-usopen-2201,2013,usopen,2201,Serena Williams,Galina Voskoboeva,,,,,,,,,,,1.0,78.0
+117,2013-usopen-2203,2013,usopen,2203,Jamie Hampton,Kristina Mladenovic,,,,,,,,,,,25.0,37.0
+118,2013-usopen-2204,2013,usopen,2204,Urszula Radwanska,Sloane Stephens,,,,,,,,,,,39.0,17.0
+119,2013-usopen-2205,2013,usopen,2205,Venus Williams,Jie Zheng,,,,,,,,,,,60.0,55.0
+120,2013-usopen-2206,2013,usopen,2206,Coco Vandeweghe,Carla Suarez Navarro,,,,,,,,,,,192.0,20.0
+121,2013-usopen-2208,2013,usopen,2208,Eugenie Bouchard,Angelique Kerber,,,,,,,,,,,57.0,10.0
+122,2013-usopen-2209,2013,usopen,2209,Agnieszka Radwanska,M.Torro-Flor,,,,,,,,,,,,
+123,2013-usopen-2212,2013,usopen,2212,Paula Ormaechea,Sabine Lisicki,,,,,,,,,,,71.0,18.0
+124,2013-usopen-2214,2013,usopen,2214,Kurumi Nara,Sorana Cirstea,,,,,,,,,,,109.0,21.0
+125,2013-usopen-2215,2013,usopen,2215,Laura Robson,Caroline Garcia,,,,,,,,,,,32.0,76.0
+126,2013-usopen-2216,2013,usopen,2216,Sofia Arvidsson,Na Li,,,,,,,,,,,91.0,6.0
+127,2013-usopen-2217,2013,usopen,2217,Caroline Wozniacki,Chanelle Scheepers,,,,,,,,,,,8.0,79.0
+128,2013-usopen-2223,2013,usopen,2223,Svetlana Kuznetsova,Shuai Peng,,,,,,,,,,,29.0,36.0
+129,2013-usopen-2224,2013,usopen,2224,Flavia Pennetta,Sara Errani,,,,,,,,,,,86.0,5.0
+130,2013-usopen-2226,2013,usopen,2226,Alison Riske,Mona Barthel,,,,,,,,,,,95.0,30.0
+131,2013-usopen-2228,2013,usopen,2228,Daniela Hantuchova,Victoria Duval,,,,,,,,,,,46.0,298.0
+132,2013-usopen-2229,2013,usopen,2229,Ana Ivanovic,Alexandra Dulgheru,,,,,,,,,,,15.0,215.0
+133,2013-usopen-2230,2013,usopen,2230,Christina McHale,Elina Svitolina,,,,,,,,,,,,
+134,2013-usopen-2231,2013,usopen,2231,Alize Cornet,Ajla Tomljanovic,,,,,,,,,,,28.0,129.0
+135,2013-usopen-2232,2013,usopen,2232,Aleksandra Wozniak,Victoria Azarenka,,,,,,,,,,,257.0,2.0
+136,2013-usopen-2301,2013,usopen,2301,Serena Williams,Yaroslava Shvedova,,,,,,,,,,,1.0,82.0
+137,2013-usopen-2302,2013,usopen,2302,Jamie Hampton,Sloane Stephens,,,,,,,,,,,25.0,17.0
+138,2013-usopen-2303,2013,usopen,2303,Jie Zheng,Carla Suarez Navarro,,,,,,,,,,,55.0,20.0
+139,2013-usopen-2304,2013,usopen,2304,Kaia Kanepi,Angelique Kerber,,,,,,,,,,,27.0,10.0
+140,2013-usopen-2305,2013,usopen,2305,Agnieszka Radwanska,A.Pavlyuchenkova,,,,,,,,,,,,
+141,2013-usopen-2306,2013,usopen,2306,Ekaterina Makarova,Sabine Lisicki,,,,,,,,,,,26.0,18.0
+142,2013-usopen-2307,2013,usopen,2307,Jelena Jankovic,Kurumi Nara,,,,,,,,,,,11.0,109.0
+143,2013-usopen-2308,2013,usopen,2308,Laura Robson,Na Li,,,,,,,,,,,32.0,6.0
+144,2013-usopen-2309,2013,usopen,2309,Caroline Wozniacki,Camila Giorgi,,,,,,,,,,,8.0,137.0
+145,2013-usopen-2310,2013,usopen,2310,Karin Knapp,Roberta Vinci,,,,,,,,,,,59.0,12.0
+146,2013-usopen-2311,2013,usopen,2311,Maria Kirilenko,Simona Halep,,,,,,,,,,,16.0,23.0
+147,2013-usopen-2312,2013,usopen,2312,Svetlana Kuznetsova,Flavia Pennetta,,,,,,,,,,,29.0,86.0
+148,2013-usopen-2313,2013,usopen,2313,Petra Kvitova,Alison Riske,,,,,,,,,,,9.0,95.0
+149,2013-usopen-2314,2013,usopen,2314,Julia Glushko,Daniela Hantuchova,,,,,,,,,,,128.0,46.0
+150,2013-usopen-2315,2013,usopen,2315,Ana Ivanovic,Christina McHale,,,,,,,,,,,,
+151,2013-usopen-2316,2013,usopen,2316,Alize Cornet,Victoria Azarenka,,,,,,,,,,,28.0,2.0
+152,2013-usopen-2401,2013,usopen,2401,Serena Williams,Sloane Stephens,,,,,,,,,,,1.0,17.0
+153,2013-usopen-2402,2013,usopen,2402,Carla Suarez Navarro,Angelique Kerber,,,,,,,,,,,20.0,10.0
+154,2013-usopen-2403,2013,usopen,2403,Agnieszka Radwanska,Ekaterina Makarova,,,,,,,,,,,4.0,26.0
+155,2013-usopen-2404,2013,usopen,2404,Jelena Jankovic,Na Li,,,,,,,,,,,11.0,6.0
+156,2013-usopen-2405,2013,usopen,2405,Camila Giorgi,Roberta Vinci,,,,,,,,,,,137.0,12.0
+157,2013-usopen-2406,2013,usopen,2406,Simona Halep,Flavia Pennetta,,,,,,,,,,,23.0,86.0
+158,2013-usopen-2407,2013,usopen,2407,Alison Riske,Daniela Hantuchova,,,,,,,,,,,95.0,46.0
+159,2013-usopen-2408,2013,usopen,2408,Ana Ivanovic,Victoria Azarenka,,,,,,,,,,,15.0,2.0
+160,2013-usopen-2501,2013,usopen,2501,Serena Williams,Carla Suarez Navarro,,,,,,,,,,,1.0,20.0
+161,2013-usopen-2502,2013,usopen,2502,Ekaterina Makarova,Na Li,,,,,,,,,,,26.0,6.0
+162,2013-usopen-2503,2013,usopen,2503,Roberta Vinci,Flavia Pennetta,,,,,,,,,,,12.0,86.0
+163,2013-usopen-2504,2013,usopen,2504,Daniela Hantuchova,Victoria Azarenka,,,,,,,,,,,46.0,2.0
+164,2013-usopen-2601,2013,usopen,2601,Serena Williams,Na Li,,,,,,,,,,,1.0,6.0
+165,2013-usopen-2602,2013,usopen,2602,Flavia Pennetta,Victoria Azarenka,,,,,,,,,,,86.0,2.0
+166,2013-usopen-2701,2013,usopen,2701,Serena Williams,Victoria Azarenka,,,,,,,,,,,1.0,2.0

@@ -1,0 +1,166 @@
+,match_id,year,slam,match_num,player1,player2,status,winner,event_name,round,court_name,court_id,player1id,player2id,nation1,nation2,player1_rank,player2_rank
+0,2017-usopen-1101,2017,usopen,1101,Rafael Nadal,Dusan Lajovic,,,,,,,,,,,1.0,75.0
+1,2017-usopen-1103,2017,usopen,1103,Yuichi Sugita,Geoffrey Blancaneaux,,,,,,,,,,,40.0,301.0
+2,2017-usopen-1104,2017,usopen,1104,Leonardo Mayer,Richard Gasquet,,,,,,,,,,,52.0,31.0
+3,2017-usopen-1108,2017,usopen,1108,Ryan Harrison,Tomas Berdych,,,,,,,,,,,47.0,19.0
+4,2017-usopen-1109,2017,usopen,1109,David Goffin,Julien Benneteau,,,,,,,,,,,7.0,56.0
+5,2017-usopen-1112,2017,usopen,1112,Jeremy Chardy,Gael Monfils,,,,,,,,,,,78.0,46.0
+6,2017-usopen-1116,2017,usopen,1116,Vaclav Safranek,Grigor Dimitrov,,,,,,,,,,,228.0,3.0
+7,2017-usopen-1117,2017,usopen,1117,Roger Federer,Frances Tiafoe,,,,,,,,,,,,
+8,2017-usopen-1120,2017,usopen,1120,Andrey Kuznetsov,Feliciano Lopez,,,,,,,,,,,107.0,36.0
+9,2017-usopen-1124,2017,usopen,1124,John Millman,Nick Kyrgios,,,,,,,,,,,128.0,21.0
+10,2017-usopen-1128,2017,usopen,1128,Henri Laaksonen,Juan Martin del Potro,,,,,,,,,,,,
+11,2017-usopen-1131,2017,usopen,1131,Marcos Baghdatis,Taylor Fritz,,,,,,,,,,,,
+12,2017-usopen-1132,2017,usopen,1132,Alex de Minaur,Dominic Thiem,,,,,,,,,,,,
+13,2017-usopen-1133,2017,usopen,1133,Sam Querrey,Gilles Simon,,,,,,,,,,,13.0,89.0
+14,2017-usopen-1136,2017,usopen,1136,Yen Hsun Lu,Karen Khachanov,,,,,,,,,,,71.0,45.0
+15,2017-usopen-1139,2017,usopen,1139,Horacio Zeballos,Hyeon Chung,,,,,,,,,,,66.0,58.0
+16,2017-usopen-1140,2017,usopen,1140,Pierre Hugues Herbert,John Isner,,,,,,,,,,,81.0,17.0
+17,2017-usopen-1141,2017,usopen,1141,Jack Sock,Jordan Thompson,,,,,,,,,,,8.0,94.0
+18,2017-usopen-1144,2017,usopen,1144,Bernard Tomic,Gilles Muller,,,,,,,,,,,140.0,25.0
+19,2017-usopen-1145,2017,usopen,1145,Kevin Anderson,JC Aragone,,,,,,,,,,,,
+20,2017-usopen-1148,2017,usopen,1148,Darian King,Alexander Zverev,,,,,,,,,,,173.0,4.0
+21,2017-usopen-1149,2017,usopen,1149,Jo Wilfried Tsonga,Marius Copil,,,,,,,,,,,15.0,93.0
+22,2017-usopen-1151,2017,usopen,1151,Nicolas Almagro,Steve Johnson,,,,,,,,,,,151.0,44.0
+23,2017-usopen-1152,2017,usopen,1152,Kyle Edmund,Robin Haase,,,,,,,,,,,50.0,42.0
+24,2017-usopen-1157,2017,usopen,1157,Lucas Pouille,Ruben Bemelmans,,,,,,,,,,,18.0,118.0
+25,2017-usopen-1162,2017,usopen,1162,Thanasi Kokkinakis,Janko Tipsarevic,,,,,,,,,,,209.0,105.0
+26,2017-usopen-1164,2017,usopen,1164,Tennys Sandgren,Marin Cilic,,,,,,,,,,,96.0,6.0
+27,2017-usopen-1201,2017,usopen,1201,Rafael Nadal,Taro Daniel,,,,,,,,,,,1.0,99.0
+28,2017-usopen-1202,2017,usopen,1202,Yuichi Sugita,Leonardo Mayer,,,,,,,,,,,40.0,52.0
+29,2017-usopen-1203,2017,usopen,1203,Stefano Travaglia,Viktor Troicki,,,,,,,,,,,134.0,55.0
+30,2017-usopen-1204,2017,usopen,1204,Alexandr Dolgopolov,Tomas Berdych,,,,,,,,,,,38.0,19.0
+31,2017-usopen-1205,2017,usopen,1205,David Goffin,Guido Pella,,,,,,,,,,,7.0,64.0
+32,2017-usopen-1206,2017,usopen,1206,Donald Young,Gael Monfils,,,,,,,,,,,61.0,46.0
+33,2017-usopen-1208,2017,usopen,1208,Andrey Rublev,Grigor Dimitrov,,,,,,,,,,,39.0,3.0
+34,2017-usopen-1209,2017,usopen,1209,Roger Federer,Mikhail Youzhny,,,,,,,,,,,2.0,84.0
+35,2017-usopen-1210,2017,usopen,1210,Fernando Verdasco,Feliciano Lopez,,,,,,,,,,,35.0,36.0
+36,2017-usopen-1211,2017,usopen,1211,Philipp Kohlschreiber,Santiago Giraldo,,,,,,,,,,,29.0,227.0
+37,2017-usopen-1212,2017,usopen,1212,Malek Jaziri,John Millman,,,,,,,,,,,98.0,128.0
+38,2017-usopen-1214,2017,usopen,1214,Adrian Menendez Maceiras,Juan Martin del Potro,,,,,,,,,,,,
+39,2017-usopen-1215,2017,usopen,1215,Adrian Mannarino,Bjorn Fratangelo,,,,,,,,,,,28.0,110.0
+40,2017-usopen-1216,2017,usopen,1216,Taylor Fritz,Dominic Thiem,,,,,,,,,,,,
+41,2017-usopen-1217,2017,usopen,1217,Sam Querrey,Dudi Sela,,,,,,,,,,,13.0,67.0
+42,2017-usopen-1220,2017,usopen,1220,Hyeon Chung,John Isner,,,,,,,,,,,58.0,17.0
+43,2017-usopen-1224,2017,usopen,1224,Borna Coric,Alexander Zverev,,,,,,,,,,,48.0,4.0
+44,2017-usopen-1225,2017,usopen,1225,Jo Wilfried Tsonga,Denis Shapovalov,,,,,,,,,,,15.0,51.0
+45,2017-usopen-1226,2017,usopen,1226,Steve Johnson,Kyle Edmund,,,,,,,,,,,44.0,50.0
+46,2017-usopen-1229,2017,usopen,1229,Lucas Pouille,Jared Donaldson,,,,,,,,,,,18.0,54.0
+47,2017-usopen-1232,2017,usopen,1232,Florian Mayer,Marin Cilic,,,,,,,,,,,69.0,6.0
+48,2017-usopen-1301,2017,usopen,1301,Rafael Nadal,Leonardo Mayer,,,,,,,,,,,1.0,52.0
+49,2017-usopen-1302,2017,usopen,1302,Viktor Troicki,Alexandr Dolgopolov,,,,,,,,,,,55.0,38.0
+50,2017-usopen-1303,2017,usopen,1303,David Goffin,Gael Monfils,,,,,,,,,,,7.0,46.0
+51,2017-usopen-1304,2017,usopen,1304,Damir Dzumhur,Andrey Rublev,,,,,,,,,,,30.0,39.0
+52,2017-usopen-1305,2017,usopen,1305,Roger Federer,Feliciano Lopez,,,,,,,,,,,2.0,36.0
+53,2017-usopen-1306,2017,usopen,1306,Philipp Kohlschreiber,John Millman,,,,,,,,,,,29.0,128.0
+54,2017-usopen-1307,2017,usopen,1307,Roberto Bautista Agut,Juan Martin del Potro,,,,,,,,,,,,
+55,2017-usopen-1308,2017,usopen,1308,Adrian Mannarino,Dominic Thiem,,,,,,,,,,,28.0,5.0
+56,2017-usopen-1309,2017,usopen,1309,Sam Querrey,Radu Albot,,,,,,,,,,,13.0,87.0
+57,2017-usopen-1310,2017,usopen,1310,Mischa Zverev,John Isner,,,,,,,,,,,33.0,17.0
+58,2017-usopen-1311,2017,usopen,1311,Thomas Fabbiano,Paolo Lorenzi,,,,,,,,,,,73.0,43.0
+59,2017-usopen-1312,2017,usopen,1312,Kevin Anderson,Borna Coric,,,,,,,,,,,14.0,48.0
+60,2017-usopen-1313,2017,usopen,1313,Denis Shapovalov,Kyle Edmund,,,,,,,,,,,51.0,50.0
+61,2017-usopen-1314,2017,usopen,1314,Nicolas Mahut,Pablo Carreno Busta,,,,,,,,,,,103.0,10.0
+62,2017-usopen-1315,2017,usopen,1315,Lucas Pouille,Mikhail Kukushkin,,,,,,,,,,,18.0,74.0
+63,2017-usopen-1316,2017,usopen,1316,Diego Schwartzman,Marin Cilic,,,,,,,,,,,,
+64,2017-usopen-1401,2017,usopen,1401,Rafael Nadal,Alexandr Dolgopolov,,,,,,,,,,,1.0,38.0
+65,2017-usopen-1402,2017,usopen,1402,David Goffin,Andrey Rublev,,,,,,,,,,,7.0,39.0
+66,2017-usopen-1403,2017,usopen,1403,Roger Federer,Philipp Kohlschreiber,,,,,,,,,,,2.0,29.0
+67,2017-usopen-1404,2017,usopen,1404,Juan Martin del Potro,Dominic Thiem,,,,,,,,,,,,
+68,2017-usopen-1405,2017,usopen,1405,Sam Querrey,Mischa Zverev,,,,,,,,,,,13.0,33.0
+69,2017-usopen-1406,2017,usopen,1406,Paolo Lorenzi,Kevin Anderson,,,,,,,,,,,43.0,14.0
+70,2017-usopen-1407,2017,usopen,1407,Denis Shapovalov,Pablo Carreno Busta,,,,,,,,,,,51.0,10.0
+71,2017-usopen-1408,2017,usopen,1408,Lucas Pouille,Diego Schwartzman,,,,,,,,,,,,
+72,2017-usopen-1501,2017,usopen,1501,Rafael Nadal,Andrey Rublev,,,,,,,,,,,1.0,39.0
+73,2017-usopen-1502,2017,usopen,1502,Roger Federer,Juan Martin del Potro,,,,,,,,,,,,
+74,2017-usopen-1503,2017,usopen,1503,Sam Querrey,Kevin Anderson,,,,,,,,,,,13.0,14.0
+75,2017-usopen-1504,2017,usopen,1504,Pablo Carreno Busta,Diego Schwartzman,,,,,,,,,,,,
+76,2017-usopen-1601,2017,usopen,1601,Rafael Nadal,Juan Martin del Potro,,,,,,,,,,,,
+77,2017-usopen-1602,2017,usopen,1602,Kevin Anderson,Pablo Carreno Busta,,,,,,,,,,,14.0,10.0
+78,2017-usopen-1701,2017,usopen,1701,Rafael Nadal,Kevin Anderson,,,,,,,,,,,1.0,14.0
+79,2017-usopen-2101,2017,usopen,2101,Karolina Pliskova,Magda Linette,,,,,,,,,,,4.0,72.0
+80,2017-usopen-2105,2017,usopen,2105,Barbora Strycova,Misaki Doi,,,,,,,,,,,,
+81,2017-usopen-2107,2017,usopen,2107,Taylor Townsend,Ana Bogdan,,,,,,,,,,,94.0,111.0
+82,2017-usopen-2109,2017,usopen,2109,Agnieszka Radwanska,Petra Martic,,,,,,,,,,,28.0,89.0
+83,2017-usopen-2111,2017,usopen,2111,Ons Jabeur,Brienne Minor,,,,,,,,,,,88.0,916.0
+84,2017-usopen-2112,2017,usopen,2112,Alison Riske,CoCo Vandeweghe,,,,,,,,,,,,
+85,2017-usopen-2114,2017,usopen,2114,Nao Hibino,Catherine Bellis,,,,,,,,,,,,
+86,2017-usopen-2115,2017,usopen,2115,Kurumi Nara,Sara Sorribes Tormo,,,,,,,,,,,102.0,104.0
+87,2017-usopen-2116,2017,usopen,2116,Marketa Vondrousova,Svetlana Kuznetsova,,,,,,,,,,,67.0,12.0
+88,2017-usopen-2117,2017,usopen,2117,Elina Svitolina,Katerina Siniakova,,,,,,,,,,,6.0,49.0
+89,2017-usopen-2118,2017,usopen,2118,Evgeniya Rodina,Eugenie Bouchard,,,,,,,,,,,105.0,81.0
+90,2017-usopen-2120,2017,usopen,2120,Allie Kiick,Daria Gavrilova,,,,,,,,,,,427.0,25.0
+91,2017-usopen-2124,2017,usopen,2124,Elise Mertens,Madison Keys,,,,,,,,,,,35.0,19.0
+92,2017-usopen-2125,2017,usopen,2125,Jelena Ostapenko,Lara Arruabarrena,,,,,,,,,,,7.0,84.0
+93,2017-usopen-2132,2017,usopen,2132,Naomi Osaka,Angelique Kerber,,,,,,,,,,,68.0,21.0
+94,2017-usopen-2133,2017,usopen,2133,Caroline Wozniacki,Mihaela Buzarnescu,,,,,,,,,,,3.0,60.0
+95,2017-usopen-2134,2017,usopen,2134,Mona Barthel,Ekaterina Makarova,,,,,,,,,,,48.0,33.0
+96,2017-usopen-2139,2017,usopen,2139,Pauline Parmentier,Oceane Dodin,,,,,,,,,,,79.0,85.0
+97,2017-usopen-2140,2017,usopen,2140,Viktoria Kuzmova,Venus Williams,,,,,,,,,,,137.0,5.0
+98,2017-usopen-2141,2017,usopen,2141,Petra Kvitova,Jelena Jankovic,,,,,,,,,,,29.0,158.0
+99,2017-usopen-2146,2017,usopen,2146,Kristyna Pliskova,Misa Eguchi,,,,,,,,,,,62.0,455.0
+100,2017-usopen-2147,2017,usopen,2147,Claire Liu,Ying Ying Duan,,,,,,,,,,,266.0,90.0
+101,2017-usopen-2148,2017,usopen,2148,Varvara Lepchenko,,,,,,,,,,,,,
+102,2017-usopen-2149,2017,usopen,2149,Johanna Konta,Aleksandra Krunic,,,,,,,,,,,9.0,54.0
+103,2017-usopen-2151,2017,usopen,2151,Saisai Zheng,Alison Van Uytvanck,,,,,,,,,,,93.0,76.0
+104,2017-usopen-2155,2017,usopen,2155,Sloane Stephens,Roberta Vinci,,,,,,,,,,,13.0,116.0
+105,2017-usopen-2156,2017,usopen,2156,Jana Cepelova,Dominika Cibulkova,,,,,,,,,,,108.0,26.0
+106,2017-usopen-2160,2017,usopen,2160,Amandine Hesse,Shuai Peng,,,,,,,,,,,265.0,27.0
+107,2017-usopen-2161,2017,usopen,2161,Lauren Davis,Sofia Kenin,,,,,,,,,,,50.0,110.0
+108,2017-usopen-2164,2017,usopen,2164,Maria Sharapova,Simona Halep,,,,,,,,,,,61.0,1.0
+109,2017-usopen-2201,2017,usopen,2201,Karolina Pliskova,Nicole Gibbs,,,,,,,,,,,4.0,109.0
+110,2017-usopen-2202,2017,usopen,2202,Risa Ozaki,Shuai Zhang,,,,,,,,,,,118.0,36.0
+111,2017-usopen-2203,2017,usopen,2203,Barbora Strycova,Jennifer Brady,,,,,,,,,,,,
+112,2017-usopen-2205,2017,usopen,2205,Agnieszka Radwanska,Yulia Putintseva,,,,,,,,,,,28.0,52.0
+113,2017-usopen-2206,2017,usopen,2206,Ons Jabeur,CoCo Vandeweghe,,,,,,,,,,,,
+114,2017-usopen-2207,2017,usopen,2207,Lucie Safarova,Nao Hibino,,,,,,,,,,,30.0,97.0
+115,2017-usopen-2208,2017,usopen,2208,Kurumi Nara,Svetlana Kuznetsova,,,,,,,,,,,102.0,12.0
+116,2017-usopen-2209,2017,usopen,2209,Elina Svitolina,Evgeniya Rodina,,,,,,,,,,,6.0,105.0
+117,2017-usopen-2210,2017,usopen,2210,Shelby Rogers,Daria Gavrilova,,,,,,,,,,,59.0,25.0
+118,2017-usopen-2211,2017,usopen,2211,Elena Vesnina,Kirsten Flipkens,,,,,,,,,,,18.0,74.0
+119,2017-usopen-2212,2017,usopen,2212,Tatjana Maria,Madison Keys,,,,,,,,,,,47.0,19.0
+120,2017-usopen-2213,2017,usopen,2213,Jelena Ostapenko,Sorana Cirstea,,,,,,,,,,,7.0,37.0
+121,2017-usopen-2214,2017,usopen,2214,Daria Kasatkina,Christina McHale,,,,,,,,,,,,
+122,2017-usopen-2215,2017,usopen,2215,Yanina Wickmayer,Kaia Kanepi,,,,,,,,,,,115.0,100.0
+123,2017-usopen-2216,2017,usopen,2216,Denisa Allertova,Naomi Osaka,,,,,,,,,,,130.0,68.0
+124,2017-usopen-2217,2017,usopen,2217,Caroline Wozniacki,Ekaterina Makarova,,,,,,,,,,,3.0,33.0
+125,2017-usopen-2218,2017,usopen,2218,,Mirjana Lucic Baroni,,,,,,,,,,,,
+126,2017-usopen-2220,2017,usopen,2220,Oceane Dodin,Venus Williams,,,,,,,,,,,85.0,5.0
+127,2017-usopen-2221,2017,usopen,2221,Petra Kvitova,,,,,,,,,,,,,
+128,2017-usopen-2224,2017,usopen,2224,Ying Ying Duan,,,,,,,,,,,,,
+129,2017-usopen-2226,2017,usopen,2226,Saisai Zheng,Julia Goerges,,,,,,,,,,,93.0,14.0
+130,2017-usopen-2227,2017,usopen,2227,Ashleigh Barty,Aliaksandra Sasnovich,,,,,,,,,,,17.0,87.0
+131,2017-usopen-2228,2017,usopen,2228,Sloane Stephens,Dominika Cibulkova,,,,,,,,,,,13.0,26.0
+132,2017-usopen-2231,2017,usopen,2231,Sofia Kenin,Sachia Vickery,,,,,,,,,,,110.0,120.0
+133,2017-usopen-2232,2017,usopen,2232,Timea Babos,Maria Sharapova,,,,,,,,,,,57.0,61.0
+134,2017-usopen-2301,2017,usopen,2301,Karolina Pliskova,Shuai Zhang,,,,,,,,,,,4.0,36.0
+135,2017-usopen-2302,2017,usopen,2302,Jennifer Brady,Monica Niculescu,,,,,,,,,,,65.0,77.0
+136,2017-usopen-2303,2017,usopen,2303,Agnieszka Radwanska,CoCo Vandeweghe,,,,,,,,,,,,
+137,2017-usopen-2304,2017,usopen,2304,Lucie Safarova,Kurumi Nara,,,,,,,,,,,30.0,102.0
+138,2017-usopen-2305,2017,usopen,2305,Elina Svitolina,Shelby Rogers,,,,,,,,,,,6.0,59.0
+139,2017-usopen-2306,2017,usopen,2306,Elena Vesnina,Madison Keys,,,,,,,,,,,18.0,19.0
+140,2017-usopen-2307,2017,usopen,2307,Jelena Ostapenko,Daria Kasatkina,,,,,,,,,,,,
+141,2017-usopen-2308,2017,usopen,2308,Kaia Kanepi,Naomi Osaka,,,,,,,,,,,100.0,68.0
+142,2017-usopen-2309,2017,usopen,2309,Ekaterina Makarova,,,,,,,,,,,,,
+143,2017-usopen-2310,2017,usopen,2310,Maria Sakkari,Venus Williams,,,,,,,,,,,53.0,5.0
+144,2017-usopen-2311,2017,usopen,2311,Petra Kvitova,Caroline Garcia,,,,,,,,,,,29.0,8.0
+145,2017-usopen-2312,2017,usopen,2312,Magdalena Rybarikova,,,,,,,,,,,,,
+146,2017-usopen-2313,2017,usopen,2313,Aleksandra Krunic,Julia Goerges,,,,,,,,,,,54.0,14.0
+147,2017-usopen-2314,2017,usopen,2314,Ashleigh Barty,Sloane Stephens,,,,,,,,,,,17.0,13.0
+148,2017-usopen-2315,2017,usopen,2315,Anastasija Sevastova,Donna Vekic,,,,,,,,,,,16.0,55.0
+149,2017-usopen-2316,2017,usopen,2316,Sofia Kenin,Maria Sharapova,,,,,,,,,,,110.0,61.0
+150,2017-usopen-2401,2017,usopen,2401,Karolina Pliskova,Jennifer Brady,,,,,,,,,,,4.0,65.0
+151,2017-usopen-2402,2017,usopen,2402,CoCo Vandeweghe,Lucie Safarova,,,,,,,,,,,,
+152,2017-usopen-2403,2017,usopen,2403,Elina Svitolina,Madison Keys,,,,,,,,,,,6.0,19.0
+153,2017-usopen-2404,2017,usopen,2404,Daria Kasatkina,Kaia Kanepi,,,,,,,,,,,,
+154,2017-usopen-2405,2017,usopen,2405,,Venus Williams,,,,,,,,,,,,
+155,2017-usopen-2406,2017,usopen,2406,Petra Kvitova,,,,,,,,,,,,,
+156,2017-usopen-2407,2017,usopen,2407,Julia Goerges,Sloane Stephens,,,,,,,,,,,14.0,13.0
+157,2017-usopen-2408,2017,usopen,2408,Anastasija Sevastova,Maria Sharapova,,,,,,,,,,,16.0,61.0
+158,2017-usopen-2501,2017,usopen,2501,Karolina Pliskova,CoCo Vandeweghe,,,,,,,,,,,,
+159,2017-usopen-2502,2017,usopen,2502,Madison Keys,Kaia Kanepi,,,,,,,,,,,19.0,100.0
+160,2017-usopen-2503,2017,usopen,2503,Venus Williams,Petra Kvitova,,,,,,,,,,,5.0,29.0
+161,2017-usopen-2504,2017,usopen,2504,Sloane Stephens,Anastasija Sevastova,,,,,,,,,,,13.0,16.0
+162,2017-usopen-2601,2017,usopen,2601,CoCo Vandeweghe,Madison Keys,,,,,,,,,,,,
+163,2017-usopen-2602,2017,usopen,2602,Venus Williams,Sloane Stephens,,,,,,,,,,,5.0,13.0
+164,2017-usopen-2701,2017,usopen,2701,Madison Keys,Sloane Stephens,,,,,,,,,,,19.0,13.0

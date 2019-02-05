@@ -1,0 +1,147 @@
+,match_id,year,slam,match_num,player1,player2,status,winner,event_name,round,court_name,court_id,player1id,player2id,nation1,nation2,player1_rank,player2_rank
+0,2013-wimbledon-1101,2013,wimbledon,1101,Novak Djokovic,Florian Mayer,,,,,,,,,,,1.0,33.0
+1,2013-wimbledon-1104,2013,wimbledon,1104,Ryan Harrison,Jeremy Chardy,,,,,,,,,,,84.0,27.0
+2,2013-wimbledon-1105,2013,wimbledon,1105,Gilles Simon,Feliciano Lopez,,,,,,,,,,,17.0,39.0
+3,2013-wimbledon-1108,2013,wimbledon,1108,Dmitry Tursunov,Tommy Haas,,,,,,,,,,,65.0,13.0
+4,2013-wimbledon-1109,2013,wimbledon,1109,Richard Gasquet,Marcel Granollers,,,,,,,,,,,9.0,41.0
+5,2013-wimbledon-1112,2013,wimbledon,1112,Bernard Tomic,Sam Querrey,,,,,,,,,,,64.0,19.0
+6,2013-wimbledon-1116,2013,wimbledon,1116,Martin Klizan,Tomas Berdych,,,,,,,,,,,35.0,6.0
+7,2013-wimbledon-1117,2013,wimbledon,1117,David Ferrer,Martin Alund,,,,,,,,,,,4.0,103.0
+8,2013-wimbledon-1121,2013,wimbledon,1121,Milos Raonic,Carlos Berlocq,,,,,,,,,,,15.0,72.0
+9,2013-wimbledon-1124,2013,wimbledon,1124,Ivan Dodig,Philipp Kohlschreiber,,,,,,,,,,,54.0,18.0
+10,2013-wimbledon-1129,2013,wimbledon,1129,Grigor Dimitrov,Simone Bolelli,,,,,,,,,,,31.0,91.0
+11,2013-wimbledon-1132,2013,wimbledon,1132,Albert Ramos,Juan Martin Del Potro,,,,,,,,,,,61.0,8.0
+12,2013-wimbledon-1133,2013,wimbledon,1133,Rafael Nadal,Steve Darcis,,,,,,,,,,,5.0,113.0
+13,2013-wimbledon-1140,2013,wimbledon,1140,Lleyton Hewitt,Stanislas Wawrinka,,,,,,,,,,,70.0,10.0
+14,2013-wimbledon-1141,2013,wimbledon,1141,Nicolas Almagro,Jurgen Zopp,,,,,,,,,,,16.0,181.0
+15,2013-wimbledon-1144,2013,wimbledon,1144,Kyle Edmund,Jerzy Janowicz,,,,,,,,,,,442.0,22.0
+16,2013-wimbledon-1145,2013,wimbledon,1145,Fabio Fognini,Jurgen Melzer,,,,,,,,,,,30.0,36.0
+17,2013-wimbledon-1147,2013,wimbledon,1147,Rogerio Dutra Silva,Sergiy Stakhovsky,,,,,,,,,,,102.0,117.0
+18,2013-wimbledon-1148,2013,wimbledon,1148,Victor Hanescu,Roger Federer,,,,,,,,,,,47.0,3.0
+19,2013-wimbledon-1149,2013,wimbledon,1149,Jo-Wilfried Tsonga,David Goffin,,,,,,,,,,,,
+20,2013-wimbledon-1156,2013,wimbledon,1156,Marcos Baghdatis,Marin Cilic,,,,,,,,,,,40.0,12.0
+21,2013-wimbledon-1157,2013,wimbledon,1157,Janko Tipsarevic,Viktor Troicki,,,,,,,,,,,14.0,44.0
+22,2013-wimbledon-1160,2013,wimbledon,1160,Robin Haase,Mikhail Youzhny,,,,,,,,,,,57.0,28.0
+23,2013-wimbledon-1163,2013,wimbledon,1163,James Ward,Yen-Hsun Lu,,,,,,,,,,,,
+24,2013-wimbledon-1164,2013,wimbledon,1164,Benjamin Becker,Andy Murray,,,,,,,,,,,95.0,2.0
+25,2013-wimbledon-1201,2013,wimbledon,1201,Novak Djokovic,Bobby Reynolds,,,,,,,,,,,1.0,154.0
+26,2013-wimbledon-1204,2013,wimbledon,1204,Jimmy Wang,Tommy Haas,,,,,,,,,,,150.0,13.0
+27,2013-wimbledon-1205,2013,wimbledon,1205,Richard Gasquet,Go Soeda,,,,,,,,,,,9.0,130.0
+28,2013-wimbledon-1206,2013,wimbledon,1206,James Blake,Bernard Tomic,,,,,,,,,,,93.0,64.0
+29,2013-wimbledon-1208,2013,wimbledon,1208,Daniel Brands,Tomas Berdych,,,,,,,,,,,56.0,6.0
+30,2013-wimbledon-1209,2013,wimbledon,1209,David Ferrer,Roberto Bautista Agut,,,,,,,,,,,4.0,63.0
+31,2013-wimbledon-1210,2013,wimbledon,1210,Santiago Giraldo,Alexandr Dolgopolov,,,,,,,,,,,94.0,24.0
+32,2013-wimbledon-1211,2013,wimbledon,1211,Milos Raonic,Igor Sijsling,,,,,,,,,,,15.0,59.0
+33,2013-wimbledon-1213,2013,wimbledon,1213,Kei Nishikori,Leonardo Mayer,,,,,,,,,,,11.0,80.0
+34,2013-wimbledon-1215,2013,wimbledon,1215,Grigor Dimitrov,Grega Zemlja,,,,,,,,,,,31.0,53.0
+35,2013-wimbledon-1216,2013,wimbledon,1216,Jesse Levine,Juan Martin Del Potro,,,,,,,,,,,112.0,8.0
+36,2013-wimbledon-1219,2013,wimbledon,1219,John Isner,Adrian Mannarino,,,,,,,,,,,21.0,111.0
+37,2013-wimbledon-1220,2013,wimbledon,1220,Dustin Brown,Lleyton Hewitt,,,,,,,,,,,187.0,70.0
+38,2013-wimbledon-1221,2013,wimbledon,1221,Nicolas Almagro,Guillaume Rufin,,,,,,,,,,,16.0,89.0
+39,2013-wimbledon-1222,2013,wimbledon,1222,Radek Stepanek,Jerzy Janowicz,,,,,,,,,,,48.0,22.0
+40,2013-wimbledon-1224,2013,wimbledon,1224,Sergiy Stakhovsky,Roger Federer,,,,,,,,,,,117.0,3.0
+41,2013-wimbledon-1225,2013,wimbledon,1225,Jo-Wilfried Tsonga,Ernests Gulbis,,,,,,,,,,,,
+42,2013-wimbledon-1226,2013,wimbledon,1226,Fernando Verdasco,Julien Benneteau,,,,,,,,,,,58.0,32.0
+43,2013-wimbledon-1227,2013,wimbledon,1227,Juan Monaco,Rajeev Ram,,,,,,,,,,,20.0,87.0
+44,2013-wimbledon-1230,2013,wimbledon,1230,Vasek Pospisil,Mikhail Youzhny,,,,,,,,,,,99.0,28.0
+45,2013-wimbledon-1231,2013,wimbledon,1231,Tommy Robredo,Nicolas Mahut,,,,,,,,,,,29.0,240.0
+46,2013-wimbledon-1232,2013,wimbledon,1232,Yen-Hsun Lu,Andy Murray,,,,,,,,,,,,
+47,2013-wimbledon-1301,2013,wimbledon,1301,Novak Djokovic,Jeremy Chardy,,,,,,,,,,,1.0,27.0
+48,2013-wimbledon-1302,2013,wimbledon,1302,Feliciano Lopez,Tommy Haas,,,,,,,,,,,39.0,13.0
+49,2013-wimbledon-1303,2013,wimbledon,1303,Richard Gasquet,Bernard Tomic,,,,,,,,,,,9.0,64.0
+50,2013-wimbledon-1304,2013,wimbledon,1304,Kevin Anderson,Tomas Berdych,,,,,,,,,,,23.0,6.0
+51,2013-wimbledon-1305,2013,wimbledon,1305,David Ferrer,Alexandr Dolgopolov,,,,,,,,,,,4.0,24.0
+52,2013-wimbledon-1306,2013,wimbledon,1306,Igor Sijsling,Ivan Dodig,,,,,,,,,,,59.0,54.0
+53,2013-wimbledon-1308,2013,wimbledon,1308,Grega Zemlja,Juan Martin Del Potro,,,,,,,,,,,53.0,8.0
+54,2013-wimbledon-1309,2013,wimbledon,1309,Lukasz Kubot,Benoit Paire,,,,,,,,,,,126.0,25.0
+55,2013-wimbledon-1311,2013,wimbledon,1311,Nicolas Almagro,Jerzy Janowicz,,,,,,,,,,,16.0,22.0
+56,2013-wimbledon-1312,2013,wimbledon,1312,Jurgen Melzer,Sergiy Stakhovsky,,,,,,,,,,,36.0,117.0
+57,2013-wimbledon-1313,2013,wimbledon,1313,Ernests Gulbis,Fernando Verdasco,,,,,,,,,,,38.0,58.0
+58,2013-wimbledon-1314,2013,wimbledon,1314,Juan Monaco,Kenny De Schepper,,,,,,,,,,,20.0,82.0
+59,2013-wimbledon-1315,2013,wimbledon,1315,Viktor Troicki,Mikhail Youzhny,,,,,,,,,,,44.0,28.0
+60,2013-wimbledon-1316,2013,wimbledon,1316,Tommy Robredo,Andy Murray,,,,,,,,,,,29.0,2.0
+61,2013-wimbledon-1401,2013,wimbledon,1401,Novak Djokovic,Tommy Haas,,,,,,,,,,,1.0,13.0
+62,2013-wimbledon-1402,2013,wimbledon,1402,Bernard Tomic,Tomas Berdych,,,,,,,,,,,64.0,6.0
+63,2013-wimbledon-1403,2013,wimbledon,1403,David Ferrer,Ivan Dodig,,,,,,,,,,,4.0,54.0
+64,2013-wimbledon-1404,2013,wimbledon,1404,Andreas Seppi,Juan Martin Del Potro,,,,,,,,,,,26.0,8.0
+65,2013-wimbledon-1406,2013,wimbledon,1406,Jerzy Janowicz,Jurgen Melzer,,,,,,,,,,,22.0,36.0
+66,2013-wimbledon-1407,2013,wimbledon,1407,Fernando Verdasco,Kenny De Schepper,,,,,,,,,,,58.0,82.0
+67,2013-wimbledon-1408,2013,wimbledon,1408,Mikhail Youzhny,Andy Murray,,,,,,,,,,,28.0,2.0
+68,2013-wimbledon-1501,2013,wimbledon,1501,Novak Djokovic,Tomas Berdych,,,,,,,,,,,1.0,6.0
+69,2013-wimbledon-1502,2013,wimbledon,1502,David Ferrer,Juan Martin Del Potro,,,,,,,,,,,4.0,8.0
+70,2013-wimbledon-1503,2013,wimbledon,1503,Lukasz Kubot,Jerzy Janowicz,,,,,,,,,,,126.0,22.0
+71,2013-wimbledon-1504,2013,wimbledon,1504,Fernando Verdasco,Andy Murray,,,,,,,,,,,58.0,2.0
+72,2013-wimbledon-1601,2013,wimbledon,1601,Novak Djokovic,Juan Martin Del Potro,,,,,,,,,,,1.0,8.0
+73,2013-wimbledon-1602,2013,wimbledon,1602,Jerzy Janowicz,Andy Murray,,,,,,,,,,,22.0,2.0
+74,2013-wimbledon-1701,2013,wimbledon,1701,Novak Djokovic,Andy Murray,,,,,,,,,,,1.0,2.0
+75,2013-wimbledon-2101,2013,wimbledon,2101,Serena Williams,Mandy Minella,,,,,,,,,,,1.0,92.0
+76,2013-wimbledon-2105,2013,wimbledon,2105,Sabine Lisicki,Francesca Schiavone,,,,,,,,,,,23.0,42.0
+77,2013-wimbledon-2108,2013,wimbledon,2108,Anna Schmiedlova,Samantha Stosur,,,,,,,,,,,,
+78,2013-wimbledon-2109,2013,wimbledon,2109,Maria Kirilenko,Laura Robson,,,,,,,,,,,10.0,37.0
+79,2013-wimbledon-2116,2013,wimbledon,2116,Bethanie Mattek-Sands,Angelique Kerber,,,,,,,,,,,,
+80,2013-wimbledon-2117,2013,wimbledon,2117,Agnieszka Radwanska,Yvonne Meusburger,,,,,,,,,,,4.0,116.0
+81,2013-wimbledon-2119,2013,wimbledon,2119,Heather Watson,Madison Keys,,,,,,,,,,,57.0,53.0
+82,2013-wimbledon-2121,2013,wimbledon,2121,A.Pavlyuchenkova,Tsvetana Pironkova,,,,,,,,,,,,
+83,2013-wimbledon-2124,2013,wimbledon,2124,Karolina Pliskova,Nadia Petrova,,,,,,,,,,,76.0,13.0
+84,2013-wimbledon-2125,2013,wimbledon,2125,Roberta Vinci,Chanelle Scheepers,,,,,,,,,,,11.0,68.0
+85,2013-wimbledon-2129,2013,wimbledon,2129,Klara Zakopalova,Daniela Hantuchova,,,,,,,,,,,,
+86,2013-wimbledon-2132,2013,wimbledon,2132,Michaella Krajicek,Na Li,,,,,,,,,,,829.0,6.0
+87,2013-wimbledon-2133,2013,wimbledon,2133,Sara Errani,Monica Puig,,,,,,,,,,,5.0,66.0
+88,2013-wimbledon-2135,2013,wimbledon,2135,Lara Arruabarrena,Lesia Tsurenko,,,,,,,,,,,82.0,78.0
+89,2013-wimbledon-2137,2013,wimbledon,2137,Sloane Stephens,Jamie Hampton,,,,,,,,,,,17.0,41.0
+90,2013-wimbledon-2138,2013,wimbledon,2138,Pauline Parmentier,Andrea Petkovic,,,,,,,,,,,110.0,75.0
+91,2013-wimbledon-2140,2013,wimbledon,2140,E.Cabeza Candela,Caroline Wozniacki,,,,,,,,,,,,
+92,2013-wimbledon-2146,2013,wimbledon,2146,Lucie Hradecka,Karin Knapp,,,,,,,,,,,89.0,105.0
+93,2013-wimbledon-2148,2013,wimbledon,2148,Kristina Mladenovic,Maria Sharapova,,,,,,,,,,,39.0,3.0
+94,2013-wimbledon-2149,2013,wimbledon,2149,Petra Kvitova,Coco Vandeweghe,,,,,,,,,,,8.0,109.0
+95,2013-wimbledon-2151,2013,wimbledon,2151,Garbine Muguruza,Anne Keothavong,,,,,,,,,,,70.0,215.0
+96,2013-wimbledon-2156,2013,wimbledon,2156,Virginie Razzano,Ana Ivanovic,,,,,,,,,,,161.0,12.0
+97,2013-wimbledon-2157,2013,wimbledon,2157,Jelena Jankovic,Johanna Konta,,,,,,,,,,,16.0,137.0
+98,2013-wimbledon-2163,2013,wimbledon,2163,Elena Baltacha,Flavia Pennetta,,,,,,,,,,,185.0,158.0
+99,2013-wimbledon-2164,2013,wimbledon,2164,Maria Joao Koehler,Victoria Azarenka,,,,,,,,,,,107.0,2.0
+100,2013-wimbledon-2201,2013,wimbledon,2201,Serena Williams,Caroline Garcia,,,,,,,,,,,1.0,100.0
+101,2013-wimbledon-2202,2013,wimbledon,2202,Kimiko Date-Krumm,Alexandra Cadantu,,,,,,,,,,,,
+102,2013-wimbledon-2203,2013,wimbledon,2203,Sabine Lisicki,Elena Vesnina,,,,,,,,,,,23.0,36.0
+103,2013-wimbledon-2204,2013,wimbledon,2204,Olga Puchkova,Samantha Stosur,,,,,,,,,,,87.0,14.0
+104,2013-wimbledon-2205,2013,wimbledon,2205,Laura Robson,Mariana Duque-Marino,,,,,,,,,,,,
+105,2013-wimbledon-2206,2013,wimbledon,2206,Marina Erakovic,Shuai Peng,,,,,,,,,,,71.0,24.0
+106,2013-wimbledon-2208,2013,wimbledon,2208,Kaia Kanepi,Angelique Kerber,,,,,,,,,,,46.0,7.0
+107,2013-wimbledon-2209,2013,wimbledon,2209,Agnieszka Radwanska,Mathilde Johansson,,,,,,,,,,,4.0,98.0
+108,2013-wimbledon-2216,2013,wimbledon,2216,Simona Halep,Na Li,,,,,,,,,,,45.0,6.0
+109,2013-wimbledon-2219,2013,wimbledon,2219,Sloane Stephens,Andrea Petkovic,,,,,,,,,,,17.0,75.0
+110,2013-wimbledon-2220,2013,wimbledon,2220,Petra Cetkovska,Caroline Wozniacki,,,,,,,,,,,171.0,9.0
+111,2013-wimbledon-2221,2013,wimbledon,2221,Marion Bartoli,Christina McHale,,,,,,,,,,,,
+112,2013-wimbledon-2222,2013,wimbledon,2222,Camila Giorgi,Sorana Cirstea,,,,,,,,,,,93.0,22.0
+113,2013-wimbledon-2223,2013,wimbledon,2223,Lucie Safarova,Karin Knapp,,,,,,,,,,,28.0,105.0
+114,2013-wimbledon-2224,2013,wimbledon,2224,M.Larcher De Brito,Maria Sharapova,,,,,,,,,,,,
+115,2013-wimbledon-2228,2013,wimbledon,2228,Eugenie Bouchard,Ana Ivanovic,,,,,,,,,,,67.0,12.0
+116,2013-wimbledon-2229,2013,wimbledon,2229,Jelena Jankovic,Vesna Dolonc,,,,,,,,,,,16.0,97.0
+117,2013-wimbledon-2230,2013,wimbledon,2230,Bojana Jovanovski,Kirsten Flipkens,,,,,,,,,,,40.0,20.0
+118,2013-wimbledon-2231,2013,wimbledon,2231,Alize Cornet,Su-Wei Hsieh,,,,,,,,,,,,
+119,2013-wimbledon-2301,2013,wimbledon,2301,Serena Williams,Kimiko Date-Krumm,,,,,,,,,,,,
+120,2013-wimbledon-2302,2013,wimbledon,2302,Sabine Lisicki,Samantha Stosur,,,,,,,,,,,23.0,14.0
+121,2013-wimbledon-2303,2013,wimbledon,2303,Laura Robson,Marina Erakovic,,,,,,,,,,,37.0,71.0
+122,2013-wimbledon-2305,2013,wimbledon,2305,Agnieszka Radwanska,Madison Keys,,,,,,,,,,,4.0,53.0
+123,2013-wimbledon-2307,2013,wimbledon,2307,Roberta Vinci,Dominika Cibulkova,,,,,,,,,,,11.0,18.0
+124,2013-wimbledon-2308,2013,wimbledon,2308,Klara Zakopalova,Na Li,,,,,,,,,,,,
+125,2013-wimbledon-2309,2013,wimbledon,2309,Monica Puig,Eva Birnerova,,,,,,,,,,,66.0,155.0
+126,2013-wimbledon-2310,2013,wimbledon,2310,Sloane Stephens,Petra Cetkovska,,,,,,,,,,,17.0,171.0
+127,2013-wimbledon-2311,2013,wimbledon,2311,Marion Bartoli,Camila Giorgi,,,,,,,,,,,15.0,93.0
+128,2013-wimbledon-2313,2013,wimbledon,2313,Petra Kvitova,Ekaterina Makarova,,,,,,,,,,,8.0,25.0
+129,2013-wimbledon-2314,2013,wimbledon,2314,Carla Suarez Navarro,Eugenie Bouchard,,,,,,,,,,,19.0,67.0
+130,2013-wimbledon-2316,2013,wimbledon,2316,Alize Cornet,Flavia Pennetta,,,,,,,,,,,30.0,158.0
+131,2013-wimbledon-2401,2013,wimbledon,2401,Serena Williams,Sabine Lisicki,,,,,,,,,,,1.0,23.0
+132,2013-wimbledon-2402,2013,wimbledon,2402,Laura Robson,Kaia Kanepi,,,,,,,,,,,37.0,46.0
+133,2013-wimbledon-2403,2013,wimbledon,2403,Agnieszka Radwanska,Tsvetana Pironkova,,,,,,,,,,,4.0,65.0
+134,2013-wimbledon-2404,2013,wimbledon,2404,Roberta Vinci,Na Li,,,,,,,,,,,11.0,6.0
+135,2013-wimbledon-2405,2013,wimbledon,2405,Monica Puig,Sloane Stephens,,,,,,,,,,,66.0,17.0
+136,2013-wimbledon-2406,2013,wimbledon,2406,Marion Bartoli,Karin Knapp,,,,,,,,,,,15.0,105.0
+137,2013-wimbledon-2407,2013,wimbledon,2407,Petra Kvitova,Carla Suarez Navarro,,,,,,,,,,,8.0,19.0
+138,2013-wimbledon-2408,2013,wimbledon,2408,Kirsten Flipkens,Flavia Pennetta,,,,,,,,,,,20.0,158.0
+139,2013-wimbledon-2501,2013,wimbledon,2501,Sabine Lisicki,Kaia Kanepi,,,,,,,,,,,23.0,46.0
+140,2013-wimbledon-2502,2013,wimbledon,2502,Agnieszka Radwanska,Na Li,,,,,,,,,,,4.0,6.0
+141,2013-wimbledon-2503,2013,wimbledon,2503,Sloane Stephens,Marion Bartoli,,,,,,,,,,,17.0,15.0
+142,2013-wimbledon-2504,2013,wimbledon,2504,Petra Kvitova,Kirsten Flipkens,,,,,,,,,,,8.0,20.0
+143,2013-wimbledon-2601,2013,wimbledon,2601,Sabine Lisicki,Agnieszka Radwanska,,,,,,,,,,,23.0,4.0
+144,2013-wimbledon-2602,2013,wimbledon,2602,Marion Bartoli,Kirsten Flipkens,,,,,,,,,,,15.0,20.0
+145,2013-wimbledon-2701,2013,wimbledon,2701,Sabine Lisicki,Marion Bartoli,,,,,,,,,,,23.0,15.0
